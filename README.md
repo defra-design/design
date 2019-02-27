@@ -4,7 +4,7 @@ A list of  resources for new Interaction Designers in Defra
 
 
 
-### **Design Community **
+### Design Community
 
 *   Warrington Community of Practice, every two weeks on Tuesday afternoon 
 *   Bristol Community of Practice, every month on Thursday afternoon
@@ -14,7 +14,7 @@ A list of  resources for new Interaction Designers in Defra
 *   Join the [digital service designers mailing list](https://groups.google.com/a/digital.cabinet-office.gov.uk/forum/?hl=en-GB#!forum/digital-service-designers) 
 *   Defra Digital on [Twitter](https://twitter.com/DefraDigital)
 
-### **Design**
+### Design
 
 *   Defra design principles
 *   Defra pattern library
@@ -26,7 +26,7 @@ A list of  resources for new Interaction Designers in Defra
 *   [Service Manual - Design](https://www.gov.uk/service-manual/design)
 
 
-### **Prototyping**
+### Prototyping
 
 *   [Google drawings wireframing kit](https://docs.google.com/drawings/d/1d10Rl4X0_quNgLk8oPlgbXK4sfDU09OvpUsIn8Azsv8/edit)
 *   [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
@@ -35,7 +35,7 @@ A list of  resources for new Interaction Designers in Defra
 *   Use [Heroku](https://www.heroku.com/) for hosting password protected prototypes
 
 
-### **Useful Blogs**
+### Useful Blogs
 
 *   [https://defradigital.blog.gov.uk/](https://defradigital.blog.gov.uk/)
 *   [https://gds.blog.gov.uk/](https://gds.blog.gov.uk/)
