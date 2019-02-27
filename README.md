@@ -1,5 +1,7 @@
 ## Interaction Design in Defra
 
+What do [Interaction Designers](https://github.com/DEFRA/design/blob/master/interaction-design.md) do  
+
 ### Design Community
 
 *   Warrington Community of Practice, every two weeks on Tuesday afternoon 
@@ -21,7 +23,6 @@
 *   [Service Manual](https://www.gov.uk/service-manual) 
 *   [Service Manual - Design](https://www.gov.uk/service-manual/design)
 
-
 ### Prototyping
 
 A prototype should be the quickest, simplest way to learn about something, or to test an idea.
@@ -30,8 +31,8 @@ A prototype should be the quickest, simplest way to learn about something, or to
 *   [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
 *   [GDS prototype kit](https://govuk-prototype-kit.herokuapp.com/docs) 
 *   Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code
+*   Set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication) on your Github account 
 *   Use [Heroku](https://www.heroku.com/) for hosting password protected prototypes
-
 
 ### Useful Blogs
 
