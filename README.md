@@ -9,7 +9,7 @@ What do [Interaction Designers](/interaction-design.md) do
 *   Defra User Centered Design meet-up
 *   Defra digital [Slack Workspace](https://defra-digital.slack.com/?redir=%2Fmessages%2Fdesign%2F) using _defra at the end of your name
 *   Cross Gov digital [Slack Workspace](ukgovernmentdigital.slack.com) 
-*   Join the [digital service designers mailing list](https://groups.google.com/a/digital.cabinet-office.gov.uk/forum/?hl=en-GB#!forum/digital-service-designers) 
+*   [Digital designers mailing list](https://groups.google.com/a/digital.cabinet-office.gov.uk/forum/?hl=en-GB#!forum/digital-service-designers) 
 *   Defra Digital on [Twitter](https://twitter.com/DefraDigital)
 
 ### Design
