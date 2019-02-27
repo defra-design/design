@@ -1,8 +1,4 @@
-## Interaction designer resources
-
-A list of  resources for new Interaction Designers in Defra	
-
-
+## Interaction design in Defra
 
 ### Design Community
 
