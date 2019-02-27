@@ -1,12 +1,8 @@
-## New Interaction designers
-
-
----
-**About this doc**
+## Interaction designer resources
 
 A list of  resources for new Interaction Designers in Defra	
 
----
+
 
 ### **Design Community **
 
