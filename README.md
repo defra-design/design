@@ -1,6 +1,6 @@
 ## Interaction Design in Defra
 
-What do [Interaction Designers](blob/master/interaction-design.md) do  
+What do [Interaction Designers](/interaction-design.md) do  
 
 ### Design Community
 
