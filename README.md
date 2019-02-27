@@ -31,8 +31,9 @@ A prototype should be the quickest, simplest way to learn about something, or to
 *   [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
 *   [GDS prototype kit](https://govuk-prototype-kit.herokuapp.com/docs) 
 *   Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code
-*   Set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication) on your Github account 
-*   Use [Heroku](https://www.heroku.com/) for hosting password protected prototypes
+*   Set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication) in Github 
+*   Use [Heroku](https://www.heroku.com/) for hosting [password protected prototypes](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku)
+ 
 
 ### Useful Blogs
 
