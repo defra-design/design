@@ -1,4 +1,4 @@
-## Interaction design in Defra
+## Interaction Design in Defra
 
 ### Design Community
 
@@ -23,6 +23,8 @@
 
 
 ### Prototyping
+
+A prototype should be the quickest, simplest way to learn about something, or to test an idea.
 
 *   [Google drawings wireframing kit](https://docs.google.com/drawings/d/1d10Rl4X0_quNgLk8oPlgbXK4sfDU09OvpUsIn8Azsv8/edit)
 *   [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)

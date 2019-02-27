@@ -1,8 +1,6 @@
-## Interaction design for services
+## Interaction Design for services
 
-Interaction designers are an essential part of service teams that want to meet user needs.
-
-They work closely with the entire project team, especially User Researchers, Service Designers, Content Designers and Software Developers.
+Interaction designers are an essential part of service teams that want to meet user needs. They work closely with the entire project team, especially User Researchers, Service Designers, Content Designers and Software Developers.
 
 
 ### Discovery
