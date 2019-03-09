@@ -22,6 +22,7 @@ What do [Interaction Designers](/interaction-design.md) do
 *   [GDS Design System Backlog](https://design-system.service.gov.uk/community/backlog/) 
 *   [Service Manual](https://www.gov.uk/service-manual) 
 *   [Service Manual - Design](https://www.gov.uk/service-manual/design)
+*   [UCD training](https://designnotes.blog.gov.uk/events-and-training-in-the-user-centred-design-community/)
 
 ### Prototyping
 
@@ -33,7 +34,7 @@ A prototype should be the quickest, simplest way to learn about something, or to
 *   [GDS prototype kit](https://govuk-prototype-kit.herokuapp.com/docs) 
 *   Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code
 *   Set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication) in Github 
-*   Use [Heroku](https://www.heroku.com/) for hosting [password protected prototypes](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku)
+*   Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting password protected prototypes
  
 
 ### Useful Blogs
