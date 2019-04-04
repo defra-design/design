@@ -1,29 +1,44 @@
 ## Service teams
 
 <table class="govuk-table">
-  <caption class="govuk-table__caption">Months and rates</caption>
   <thead class="govuk-table__head">
     <tr class="govuk-table__row">
-      <th class="govuk-table__header" scope="col">Month you apply</th>
-      <th class="govuk-table__header govuk-table__header--numeric" scope="col">Rate for bicycles</th>
-      <th class="govuk-table__header govuk-table__header--numeric" scope="col">Rate for vehicles</th>
+      <th class="govuk-table__header" scope="col">Service name</th>
+      <th class="govuk-table__header" scope="col">Location</th>
     </tr>
   </thead>
   <tbody class="govuk-table__body">
     <tr class="govuk-table__row">
-      <th class="govuk-table__header" scope="row">January</th>
-      <td class="govuk-table__cell govuk-table__cell--numeric">£85</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">£95</td>
+      <th class="govuk-table__header" scope="row">Waste permits</th>
+      <td class="govuk-table__cell">Bristol</td>
     </tr>
     <tr class="govuk-table__row">
-      <th class="govuk-table__header" scope="row">February</th>
-      <td class="govuk-table__cell govuk-table__cell--numeric">£75</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">£55</td>
+      <th class="govuk-table__header" scope="row">Waste exemptions</th>
+      <td class="govuk-table__cell">Bristol</td>
     </tr>
     <tr class="govuk-table__row">
-      <th class="govuk-table__header" scope="row">March</th>
-      <td class="govuk-table__cell govuk-table__cell--numeric">£165</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">£125</td>
+      <th class="govuk-table__header" scope="row">Water abstraction</th>
+      <td class="govuk-table__cell">Bristol</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th class="govuk-table__header" scope="row">IDM</th>
+      <td class="govuk-table__cell">Bristol</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th class="govuk-table__header" scope="row">Alerts</th>
+      <td class="govuk-table__cell">Bristol</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th class="govuk-table__header" scope="row">Check if a place in England is at risk of flooding now</th>
+      <td class="govuk-table__cell">Warrington</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th class="govuk-table__header" scope="row">Recruit to first pay</th>
+      <td class="govuk-table__cell">Warrington</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th class="govuk-table__header" scope="row">Defra charge</th>
+      <td class="govuk-table__cell">Crewe</td>
     </tr>
   </tbody>
 </table>
