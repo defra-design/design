@@ -1,7 +1,7 @@
 ## Interaction Design in Defra
 
-[What Interaction Designers do](/interaction-design.md) do.
-  
+[What Interaction Designers do](/interaction-design.md).
+
 
 ### Design Community
 
