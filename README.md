@@ -5,9 +5,10 @@
 
 ### Design Community
 
+*   Defra Interaction Design call 
+*   Defra User Centered Design meet-up, quarterly 
 *   Warrington Community of Practice, every two weeks on Tuesday afternoon 
 *   Bristol Community of Practice, every month on Thursday afternoon
-*   Defra User Centered Design meet-up, quarterly 
 *   Defra digital [Slack Workspace](https://defra-digital.slack.com/?redir=%2Fmessages%2Fdesign%2F) using _defra at the end of your name
 *   Cross Gov digital [Slack Workspace](ukgovernmentdigital.slack.com) 
 *   [Digital designers mailing list](https://groups.google.com/a/digital.cabinet-office.gov.uk/forum/?hl=en-GB#!forum/digital-service-designers) 
