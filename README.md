@@ -5,7 +5,7 @@
 
 ### Design Community
 
-*   Defra Interaction Design call 
+*   Defra Interaction Design call, last Friday of every month 
 *   Defra User Centered Design meet-up, quarterly 
 *   Warrington Community of Practice, every two weeks on Tuesday afternoon 
 *   Bristol Community of Practice, every month on Thursday afternoon
@@ -17,8 +17,8 @@
 ### Design
 
 *   Defra design principles
-*   Defra pattern library
-*   Defra pattern library backlog
+<!-- *   Defra pattern library
+*   Defra pattern library backlog -->
 *   [GDS Design principles](https://www.gov.uk/design-principles)
 *   [GDS Design System](https://design-system.service.gov.uk/) 
 *   [GDS Design System Backlog](https://design-system.service.gov.uk/community/backlog/) 
