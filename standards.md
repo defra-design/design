@@ -1,7 +1,8 @@
 ## Defra Interaction design standards
 
 Interaction designers determine the best way for users to interact with services, from the overall flow/user journey to individual design elements. 
-More information on What Interaction Designers do 
+
+More information on [What Interaction Designers do](/interaction-design.md).
 
 ## Prototyping
 A prototype should be the quickest, simplest way to learn about something, or to test an idea.
