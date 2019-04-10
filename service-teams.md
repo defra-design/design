@@ -12,5 +12,9 @@
       <td class="govuk-table__header" scope="row">Flood digital</td>
       <td class="govuk-table__cell">Warrington</td>
     </tr>
+    <tr class="govuk-table__row">
+      <td class="govuk-table__header" scope="row">Ivory service (name tbc)</td>
+      <td class="govuk-table__cell">Bristol</td>
+    </tr>
   </tbody>
 </table>
