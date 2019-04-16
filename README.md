@@ -1,7 +1,6 @@
 ## Interaction Design in Defra
 
 [What Interaction Designers do](/interaction-design.md).
-
 [Services we're working on](/service-teams.md).
 
 ### Design Community
@@ -36,7 +35,7 @@ A prototype should be the quickest, simplest way to learn about something, or to
 * Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code
 * Set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication) in Github 
 * Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting password protected prototypes
-* Defra prototype training (coming soon)s
+* Defra prototype training (coming soon)
 
 ### Useful Blogs
 
