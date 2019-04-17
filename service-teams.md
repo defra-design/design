@@ -84,6 +84,11 @@
       <td class="govuk-table__cell">Alpha</td>
       <td class="govuk-table__cell">York</td>
     </tr>
+    <tr class="govuk-table__row">
+      <td class="govuk-table__header" scope="row">Marine planning</td>
+      <td class="govuk-table__cell">Beta</td>
+      <td class="govuk-table__cell">Newcastle</td>
+    </tr>
   </tbody>
 </table>
 
@@ -91,10 +96,8 @@
 
 
 <!-- 
-Defra charge
 Imports
 Exports
-Marine licenceing
 Expert catch certificates 
 Vetinary Medical Directorate
 Chemicals
