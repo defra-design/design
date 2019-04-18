@@ -19,7 +19,7 @@
 
 * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 * [Defra design standards](/standards.md)
-* Defra pattern library (coming soon)
+* [Design System Backlog](https://github.com/DEFRA/design-system-backlog/issues)
 * [GDS Design principles](https://www.gov.uk/design-principles)
 * [GDS Design System](https://design-system.service.gov.uk/) 
 * [GDS Design System Backlog](https://design-system.service.gov.uk/community/backlog/) 
