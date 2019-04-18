@@ -26,7 +26,7 @@ If you cannot find what you need in the GOV.UK Design System you can:
 * propose a new pattern in Defra
 * [propose a new pattern in the cross gov design system](https://design-system.service.gov.uk/community/propose-a-component-or-pattern/)
 
-All patterns must be [useful and unique](https://design-system.service.gov.uk/community/contribution-criteria/#new-proposals) .
+All patterns must be [useful and unique](https://design-system.service.gov.uk/community/contribution-criteria/#new-proposals).
 
 ### Iterating a design pattern
 Existing design patterns can be used as starting points but may need to be iterated to suit the needs of users of a particular service. 
