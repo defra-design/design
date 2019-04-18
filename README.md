@@ -33,7 +33,7 @@ A prototype should be the quickest, simplest way to learn about something, or to
 * [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
 * [Sketch flow kit](https://github.com/charlesrt/gov-flow)
 * [GDS prototype kit](https://govuk-prototype-kit.herokuapp.com/docs) 
-* Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code, to get a repo set up contact [Cathy Dutton](cathy.dutton@environment-agency.gov.uk)
+* Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code, to get a repo set up contact [Cathy Dutton](mailto:cathy.dutton@environment-agency.gov.uk)
 * Set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication) in Github 
 * Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting password protected prototypes
 * Defra prototype training (coming soon)
