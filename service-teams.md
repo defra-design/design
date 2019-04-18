@@ -1,4 +1,4 @@
-## Service teams
+## Current service teams
 
 <table class="govuk-table">
   <thead class="govuk-table__head">
