@@ -18,8 +18,8 @@
 ### Design 
 
 * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
-* [Defra design standards](/standards.md)
-* [Design System Backlog](https://github.com/DEFRA/design-system-backlog/issues)
+* [Defra Design Standards](/standards.md)
+* [Defra Design System Backlog](https://github.com/DEFRA/design-system-backlog/issues)
 * [GDS Design principles](https://www.gov.uk/design-principles)
 * [GDS Design System](https://design-system.service.gov.uk/) 
 * [GDS Design System Backlog](https://design-system.service.gov.uk/community/backlog/) 
