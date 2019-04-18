@@ -4,7 +4,7 @@
 
 [Services we're working on](/service-teams.md).
 
-### Design Community
+### Community
 
 *   Defra Interaction Design call, last Friday of every month 
 *   Defra User Centered Design meet-up, quarterly 
@@ -15,8 +15,9 @@
 *   [Digital designers mailing list](https://groups.google.com/a/digital.cabinet-office.gov.uk/forum/?hl=en-GB#!forum/digital-service-designers) 
 *   Defra Digital on [Twitter](https://twitter.com/DefraDigital)
 
-### Design principles
+### Design 
 
+* [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 * [Defra design standards](/standards.md)
 * Defra pattern library (coming soon)
 * [GDS Design principles](https://www.gov.uk/design-principles)
