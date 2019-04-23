@@ -22,8 +22,8 @@ Check the [GOV.UK Design System](https://design-system.service.gov.uk/) to see i
 If you cannot find what you need in the GOV.UK Design System you can:
 
 * [see if it is being worked on by other teams across government and add your findings](https://design-system.service.gov.uk/community/backlog/)
-* see if it is being worked on by someone in Defra and add your findings 
-* propose a new pattern in Defra
+* see if it is being worked on by someone in [Defra](https://github.com/DEFRA/design-system-backlog/issues) and add your findings 
+* propose a new pattern in [Defra](https://github.com/DEFRA/design-system-backlog/issues)
 * [propose a new pattern in the cross gov design system](https://design-system.service.gov.uk/community/propose-a-component-or-pattern/)
 
 All patterns must be [useful and unique](https://design-system.service.gov.uk/community/contribution-criteria/#new-proposals).
