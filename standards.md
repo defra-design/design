@@ -61,6 +61,6 @@ To create a new pattern use a Defra namespace to avoid issues with CSS inheritan
          Design resources for Defra
        </a>
    </div>
-</header> -->
+</header>
 ```
-
+ -->
