@@ -11,7 +11,7 @@
 *   Warrington Community of Practice, every two weeks on Tuesday afternoon 
 *   Bristol Community of Practice, every month on Thursday afternoon
 *   Defra digital [Slack Workspace](https://defra-digital.slack.com/?redir=%2Fmessages%2Fdesign%2F) using _defra at the end of your name
-*   Cross Gov digital [Slack Workspace](ukgovernmentdigital.slack.com) 
+*   Cross Gov digital [Slack Workspace](https://ukgovernmentdigital.slack.com) 
 *   [Digital designers mailing list](https://groups.google.com/a/digital.cabinet-office.gov.uk/forum/?hl=en-GB#!forum/digital-service-designers) 
 *   Defra Digital on [Twitter](https://twitter.com/DefraDigital)
 
