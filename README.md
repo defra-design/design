@@ -33,6 +33,7 @@ A prototype should be the quickest, simplest way to learn about something, or to
 *   [Google drawings wireframing kit](https://docs.google.com/drawings/d/1d10Rl4X0_quNgLk8oPlgbXK4sfDU09OvpUsIn8Azsv8/edit)
 * [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
 * [Sketch flow kit](https://github.com/charlesrt/gov-flow)
+* [Google Drawing flow kit](https://www.beatnic.co.uk/2019/10/04/google-drawing-template-gov-flow-kit/)
 * [Balsamiq wireframing kit](https://github.com/enoranidi/govuk-design-system-balsamiq)
 * [GDS prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
 * [Govspeak Preview](https://govspeak-preview.herokuapp.com/convert) 
