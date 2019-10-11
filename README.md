@@ -36,6 +36,7 @@ A prototype should be the quickest, simplest way to learn about something, or to
 * [Google Drawing flow kit](https://www.beatnic.co.uk/2019/10/04/google-drawing-template-gov-flow-kit/)
 * [Balsamiq wireframing kit](https://github.com/enoranidi/govuk-design-system-balsamiq)
 * [GDS prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
+* [GDS prototype kit tips](https://medium.com/@onebc/five-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
 * [Govspeak Preview](https://govspeak-preview.herokuapp.com/convert) 
 * Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code, to get a repo set up contact [Cathy Dutton](mailto:cathy.dutton@environment-agency.gov.uk)
 * Set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication) in Github 
