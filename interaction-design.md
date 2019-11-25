@@ -9,6 +9,7 @@ Below are some of the activities carried out by Interaction Designers
 *   Make sure the project has a well defined problem statement
 *   Attend user research (listen to phone calls, meet users, observe how they interact with current services etc) 
 *   Study the existing service if one exists, (analytics, call centre observations, SME interviews etc) 
+*   Understand a users interactions with the any current service 
 *   Study any third party offerings
 *   Help the team to identify and investigate pain points 
 *   Identify the riskiest assumptions
