@@ -6,34 +6,34 @@ Below are some of the activities carried out by Interaction Designers
 
 ### Discovery
 
-*   Make sure the project has a well defined problem statement
-*   Attend user research (listen to phone calls, meet users, observe how they interact with current services etc) 
+*   Help the team to create a well defined problem statement 
 *   Study the existing service if one exists, (analytics, call centre observations, SME interviews etc) 
-*   Understand a users interactions with the any current service 
+*   Understand a users interactions with the any current service
+*   Attend user research (listen to phone calls, meet users, observe how they interact with current services etc)
 *   Study any third party offerings
 *   Help the team to identify and investigate pain points 
 *   Identify the riskiest assumptions
-*   Help the team to with the creation of Journey Maps and as-is Service Maps
+*   Help the team to with the creation of user Journey Maps
 *   Make plans for Alpha  ('How might we statements', challenge the need for an Alpha, Should there be more than 1 Alpha?)
 
 
 ### Alpha
 
+*   Work out the best way to let users interact with the service
 *   Design and test multiple solutions to make sure we build the right thing
 *   Test the riskiest assumptions
-*   Work out the best way to let users interact with the service
-*   Decide on high-level user journeys (online, offline, happy path, sad path etc)
+*   Decide on high-level to be user journeys (online, offline, happy path, sad path etc)
 *   Create design ideas based on user research
 *   Design mock-ups in Sketch
 *   Create prototypes in code
 *   Test ideas quickly
 *   Work closely with the user researcher and attend user research sessions 
-*   Iterate designs based on user feedback
-*   Identify the most effective flow or journey through the service 
+*   Iterate designs based on user feedback 
 *   Help the team to challenge any unnecessary questions or requests for information
 *   Identify existing patterns that can be reused
 *   Communicate design decisions to stakeholders
-*   Be an advocate for accessibility in all aspects of the design of a service
+*   Create flow diagrams for interactions
+*   Be an advocate for accessibility in all aspects of the design of the service
 
 
 ### Beta
