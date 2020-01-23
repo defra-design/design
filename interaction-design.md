@@ -1,58 +1,63 @@
 ## Interaction Design for services
 
-Interaction designers are an essential part of service teams that want to meet user needs. They work closely with the entire project team, especially User Researchers, Service Designers, Content Designers and Software Developers.
+Interaction designers are an essential part of service teams that want to meet user needs. They work closely with the entire project team, especially User researchers, Service designers, Content designers and Software developers.
 
-Below are some of the activities carried out by Interaction Designers
+Below are some of the activities carried out by Interaction designers
 
 ### Discovery
 
-*   Help the team to create a well defined problem statement 
-*   Study the existing service if one exists, (analytics, call centre observations, SME interviews etc) 
-*   Understand a users interactions with the any current service
-*   Attend user research (listen to phone calls, meet users, observe how they interact with current services etc)
-*   Study any third party offerings
-*   Help the team to identify and investigate pain points 
-*   Identify the riskiest assumptions
-*   Help the team to with the creation of user Journey Maps
-*   Make plans for Alpha  ('How might we statements', challenge the need for an Alpha, Should there be more than 1 Alpha?)
+In Discovery we work with user researchers to understand the service users, their experiences, goals and motivations.
 
+* build knowledge of the subject and understand the policy intent (work with stakeholders, policy and subject matter experts) 
+* understand how users interact with any current service
+* attend user research (listen to phone calls, meet users, observe how people interact with current services)
+* create user journey maps
+* help the team to identify and investigate pain points or problems with an existing service
+* help the team define their focus by creating a well-defined problem statement
+* identify the riskiest assumptions
+* make plans for Alpha ('How might we statements', challenge the need for an Alpha, should there be more than 1 Alpha?)
 
 ### Alpha
 
-*   Work out the best way to let users interact with the service
-*   Design and test multiple solutions to make sure we build the right thing
-*   Test the riskiest assumptions
-*   Decide on high-level to be user journeys (online, offline, happy path, sad path etc)
-*   Create design ideas based on user research
-*   Design mock-ups in Sketch
-*   Create prototypes in code
-*   Test ideas quickly
-*   Work closely with the user researcher and attend user research sessions 
-*   Iterate designs based on user feedback 
-*   Help the team to challenge any unnecessary questions or requests for information
-*   Identify existing patterns that can be reused
-*   Communicate design decisions to stakeholders
-*   Create flow diagrams for interactions
-*   Be an advocate for accessibility in all aspects of the design of the service
+In Alpha we try out different or new solutions to the problems defined in discovery
 
+* work out the best way to let users interact with the service
+* challenge the way things are done at the moment
+* test the riskiest assumptions
+* design and test multiple solutions to make sure we build the right thing
+* decide on high-level to be user journeys (online, offline, happy path, sad path etc)
+* facilitate co-design sessions with stakeholders, content designers, developers etc
+* test ideas quickly with low fidelity prototypes
+* work closely with the user researcher and attend user research sessions 
+* identify existing patterns that could be reused
+* communicate design decisions to stakeholders
+* make sure the service is inclusive
 
 ### Beta
 
-*   Focus on each screen or stage of the user journey
-*   Decide on micro-interactions
-*   Iterate and refine ideas based on feedback from users
-*   Iterate and refine existing design patterns where needed 
-*   Create new design patterns where needed
-*   Help the team to test the service with assistive technology
-*   Attend user research sessions with users that have accessibility needs
-*   Help the team to create a plan for assisted digital users
-*   Ensure the service is user-focused, accessible and has a consistent user experience
-*   Be an advocate for accessibility in all aspects of the design of a service
+In Beta we take the best idea from alpha and start building it for real
+
+* create high level journey maps
+* design flow diagrams, screen or question sequences
+* prototype detailed interactions, components, screens etc  
+* communicate design decisions to stakeholders
+* help plan research goals 
+* attend research sessions
+* help with research analysis
+* iterate designs based on analysis and feedback
+* iterate and refine existing design patterns where needed 
+* create new design patterns where needed and share with wider community
+* help the team to challenge any unnecessary questions or requests for information
+* make sure the service is inclusive
+* help the team to test the service with assistive technology
+* help the team to create a plan for assisted digital users
 
 ### Live and continuous improvement
 
-*   Analyse the service's performance 
-*   Use Analytics to identify areas for service improvement
-*   Analyse call centre data to identify areas for service improvement
-*   Review feedback from the service and feed into new user stories
-*   Share new or iterated design patterns in Defra and cross gov
+We continue to iterate services with live data and feedback
+
+* use feedback, analytics, and call centre data to identify areas for service improvement
+* share research on existing Gov.uk patterns on Github
+* share any new components or patterns in Defra and cross Gov
+* share service findings and research that may influence Defra design standards and guidance documents
+
