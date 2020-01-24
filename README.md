@@ -1,50 +1,69 @@
-## Interaction Design in Defra
 
-[What Interaction Designers do](/interaction-design.md).
 
-[Services we're working on](/service-teams.md).
+<!-- * Interaction design at Defra 
+* What interaction designers do 
+* Design standards
+* Service teams
+* Community
+* Tools and resources  -->
 
-### Community
 
-*   Defra Interaction Design call, last Friday of every month 
-*   Defra User Centered Design meet-up, quarterly 
-*   Warrington Community of Practice, every two weeks on Tuesday afternoon 
-*   Bristol Community of Practice, every month on Thursday afternoon
-*   Defra digital [Slack Workspace](https://defra-digital.slack.com/?redir=%2Fmessages%2Fdesign%2F) using _defra at the end of your name
-*   Cross Gov digital [Slack Workspace](https://ukgovernmentdigital.slack.com) 
-*   [Digital designers mailing list](https://groups.google.com/a/digital.cabinet-office.gov.uk/forum/?hl=en-GB#!forum/digital-service-designers) 
-*   Defra Digital on [Twitter](https://twitter.com/DefraDigital)
+<!-- Nav -->
+* Interaction design
+* [What Interaction designers do](/interaction-design.md)
+* [Interaction design community](/community.md)
+* [Design standards](/standards.md)
+* [Tools and resources](/tools-and-resources.md)
+* [Services we're working on](/service-teams.md)
 
-### Design 
 
-* [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
-* [Defra Design Standards](/standards.md)
-* [Defra Design discussions](https://github.com/DEFRA/design-discussions/issues)
-* [GDS Design principles](https://www.gov.uk/design-principles)
-* [GDS Design System](https://design-system.service.gov.uk/) 
-* [GDS Design System Backlog](https://design-system.service.gov.uk/community/backlog/) 
-* [GDS Service Manual](https://www.gov.uk/service-manual) 
-* [GDS UCD training](https://designnotes.blog.gov.uk/events-and-training-in-the-user-centred-design-community/)
+# Interaction Design in Defra
 
-### Prototyping
+Interaction designers design the detailed actions a user needs to make in order to use a service. They are comfortable working at both ends of the scale, from high level flows and journeys to the detail of individual elements on screen. 
 
-A prototype should be the quickest, simplest way to learn about something, or to test an idea.
 
-*   [Google drawings wireframing kit](https://docs.google.com/drawings/d/1d10Rl4X0_quNgLk8oPlgbXK4sfDU09OvpUsIn8Azsv8/edit)
-* [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
-* [Sketch flow kit](https://github.com/charlesrt/gov-flow)
-* [Google Drawing flow kit](https://www.beatnic.co.uk/2019/10/04/google-drawing-template-gov-flow-kit/)
-* [Balsamiq wireframing kit](https://github.com/enoranidi/govuk-design-system-balsamiq)
-* [GDS prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
-* [GDS prototype kit tips](https://medium.com/@onebc/five-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
-* [Govspeak Preview](https://govspeak-preview.herokuapp.com/convert) 
-* Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code, to get a repo set up contact [Cathy Dutton](mailto:cathy.dutton@environment-agency.gov.uk)
-* Set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication) in Github 
-* Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting password protected prototypes
-* Defra prototype training (coming soon)
+#### DDaT definition:
 
-### Useful Blogs
+An interaction designer works out the best way to let users interact with services, in terms of both overall flow and at the level of individual design elements.
 
-* [https://defradigital.blog.gov.uk/](https://defradigital.blog.gov.uk/)
-* [https://gds.blog.gov.uk/](https://gds.blog.gov.uk/)
-* [https://accessibility.blog.gov.uk/](https://accessibility.blog.gov.uk/)
+
+### Scope
+
+* touchpoints
+* user journeys 
+* actions
+* tasks
+
+### Scale/zoom
+
+* high level - User journey maps
+* mid level - Flow diagram, Interaction sequence, Screen sequence, Question sequence
+* low level - Structure, Screen layout, Components
+
+
+### Goal
+
+* visualise a users perspective
+* highlight pain points
+* highlight areas for improvement (time, experience etc)
+* design how users interact with services
+
+### focus
+
+* users
+* context
+* situations
+* when/where
+* time
+* inclusivity
+* accessibility
+* useability
+
+## Relationship with Service design
+
+| Service Design | Manage a waste removal company |
+| --- | --- |
+| Interaction Design | Apply for a waste Carrier, Broker or Dealer permit |
+| Interaction Design | Apply for a standard rules waste Permit |
+| Interaction Design | Hazardous waste consignee returns |
+| Interaction Design | Send your Landfill Tax return online |

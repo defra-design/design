@@ -1,4 +1,13 @@
-## Current service teams
+<!-- Nav -->
+* [Interaction design](/README.md) 
+* [What Interaction designers do](/interaction-design.md)
+* [Interaction design community](/community.md)
+* [Design standards](/standards.md)
+* [Tools and resources](/tools-and-resources.md)
+* Services we're working on
+
+
+# Current service teams
 
 <table class="govuk-table">
   <thead class="govuk-table__head">
@@ -41,7 +50,7 @@
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__header" scope="row">Ivory service (name tbc)</td>
-      <td class="govuk-table__cell">Alpha</td>
+      <td class="govuk-table__cell">Beta</td>
       <td class="govuk-table__cell">Bristol</td>
     </tr>
     <tr class="govuk-table__row">
@@ -95,13 +104,6 @@
 
 
 
-<!-- 
-Imports
-Exports
-Expert catch certificates 
-Vetinary Medical Directorate
-Chemicals
--->
 
 
 
