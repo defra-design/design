@@ -9,100 +9,24 @@
 
 # Current service teams
 
-<table class="govuk-table">
-  <thead class="govuk-table__head">
-    <tr class="govuk-table__row">
-      <th class="govuk-table__header" scope="col">Service name</th>
-      <th class="govuk-table__header" scope="col">Phase</th>
-      <th class="govuk-table__header" scope="col">Location</th>
-    </tr>
-  </thead>
-  <tbody class="govuk-table__body">
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Check if a place in England is at risk of flooding now</td>
-      <td class="govuk-table__cell">Alpha</td>
-      <td class="govuk-table__cell">Warrington</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Long term flood risk information</td>
-      <td class="govuk-table__cell">Continuous Improvement</td>
-      <td class="govuk-table__cell">Warrington</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Flood Map for Planning</td>
-      <td class="govuk-table__cell">Continuous Improvement</td>
-      <td class="govuk-table__cell">Warrington</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Future flood forecasting service</td>
-      <td class="govuk-table__cell">Discovery</td>
-      <td class="govuk-table__cell">Warrington</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Flood Risk Application Permit Service</td>
-      <td class="govuk-table__cell">Discovery</td>
-      <td class="govuk-table__cell">Warrington</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Defra Charge</td>
-      <td class="govuk-table__cell">Alpha</td>
-      <td class="govuk-table__cell">Crewe</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Ivory service (name tbc)</td>
-      <td class="govuk-table__cell">Beta</td>
-      <td class="govuk-table__cell">Bristol</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Apply for a standard rules environmental permit</td>
-      <td class="govuk-table__cell">Continuous Improvement</td>
-      <td class="govuk-table__cell">Bristol</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Register your waste exemptions</td>
-      <td class="govuk-table__cell">Continuous Improvement</td>
-      <td class="govuk-table__cell">Bristol</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Register or renew as a waste carrier, broker or dealer (England)</td>
-      <td class="govuk-table__cell">Continuous Improvement</td>
-      <td class="govuk-table__cell">Bristol</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Water Resourcing Licencing Service</td>
-      <td class="govuk-table__cell">Continuous Improvement</td>
-      <td class="govuk-table__cell">Bristol</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Get a Fishing Licence</td>
-      <td class="govuk-table__cell">Continuous Improvement</td>
-      <td class="govuk-table__cell">Bristol</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Rod Catch Returns</td>
-      <td class="govuk-table__cell">Continuous Improvement</td>
-      <td class="govuk-table__cell">Bristol</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Defra Identity</td>
-      <td class="govuk-table__cell">Beta</td>
-      <td class="govuk-table__cell">Bristol</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Environmental land management service</td>
-      <td class="govuk-table__cell">Alpha</td>
-      <td class="govuk-table__cell">York</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__header" scope="row">Marine planning</td>
-      <td class="govuk-table__cell">Beta</td>
-      <td class="govuk-table__cell">Newcastle</td>
-    </tr>
-  </tbody>
-</table>
-
-
-
+|Service name|Phase|Location|
+|--- |--- |--- |
+|Check if a place in England is at risk of flooding now|Alpha|Warrington|
+|Long term flood risk information|Continuous Improvement|Warrington|
+|Flood Map for Planning|Continuous Improvement|Warrington|
+|Future flood forecasting service|Discovery|Warrington|
+|Flood Risk Application Permit Service|Discovery|Warrington|
+|Defra Charge|Alpha|Crewe|
+|Ivory service (name tbc)|Beta|Bristol|
+|Apply for a standard rules environmental permit|Continuous Improvement|Bristol|
+|Register your waste exemptions|Continuous Improvement|Bristol|
+|Register or renew as a waste carrier, broker or dealer (England)|Continuous Improvement|Bristol|
+|Water Resourcing Licencing Service|Continuous Improvement|Bristol|
+|Get a Fishing Licence|Continuous Improvement|Bristol|
+|Rod Catch Returns|Continuous Improvement|Bristol|
+|Defra Identity|Beta|Bristol|
+|Environmental land management service|Alpha|York|
+|Marine planning|Beta|Newcastle|
 
 
 
