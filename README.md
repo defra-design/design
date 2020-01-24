@@ -61,12 +61,13 @@ An interaction designer works out the best way to let users interact with servic
 
 ## Relationship with Service design
 
+Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. Their work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.
+
 #### DDaT definition:
 
 Service design works across the whole service as a system mapping, joining up, and making tangible front-and-backstage processes that enable a user to achieve their goal
 
-Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. Their work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.
-
+#### Programme example
 
 | Service Design | Manage a waste removal company |
 | --- | --- |
