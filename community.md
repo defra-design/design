@@ -22,6 +22,7 @@ We are a team of 4 permanent and 7 contract Interaction designers working in Bri
 
 *  Warrington Community of Practice, every two weeks on Wednesday afternoon 
 *  Bristol Community of Practice, every month on Thursday afternoon
+*  York Community of Practice, lunchtime meet ups  
 
 ### Slack
 
