@@ -57,6 +57,12 @@ Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku
 * Read [tips on working with the Gov.uk prototype kit](https://medium.com@onebcfive-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
 * Converts Google Docs into [Govspeak](https://govspeak-preview.herokuapp.com/convert) ready for Specialist Publisher 
 
+### Defra branding and print template
+
+Style guide, templates and brand assests  
+
+* [Corporate document templates]https://intranet.defra.gov.uk/forms/corporate-document-templates/
+* [Branding]https://intranet.defra.gov.uk/how-to/correspondence/branding-corporate-templates/
 
 ### Training
 
