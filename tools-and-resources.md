@@ -61,8 +61,8 @@ Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku
 
 Style guide, templates and brand assests  
 
-* [Corporate document templates]https://intranet.defra.gov.uk/forms/corporate-document-templates/
-* [Branding]https://intranet.defra.gov.uk/how-to/correspondence/branding-corporate-templates/
+* [Corporate document templates](https://intranet.defra.gov.uk/forms/corporate-document-templates/)
+* [Branding](https://intranet.defra.gov.uk/how-to/correspondence/branding-corporate-templates/)
 
 ### Training
 
