@@ -62,7 +62,7 @@ Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku
 * Read [tips on working with the Gov.uk prototype kit](https://medium.com/@onebc/five-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
 * [More efficient prototyping with the GOV.UK prototype kit: step by step](https://medium.com/gov-design/more-efficient-prototyping-with-the-gov-uk-prototype-kit-step-by-step-84ea2832549a)
 * [Validation for prototypes](http://www.craigabbott.co.uk/validation-for-prototypes)
-* 
+
 
 ### Defra branding and print template
 
