@@ -54,7 +54,7 @@ To get an account you must set up [two factor authentication](https://help.githu
 Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting your password protected prototypes.
 
 * Download the [Gov.uk prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
-* Read [tips on working with the Gov.uk prototype kit](https://medium.com@onebcfive-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
+* Read [tips on working with the Gov.uk prototype kit](https://medium.com/@onebc/five-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
 * Converts Google Docs into [Govspeak](https://govspeak-preview.herokuapp.com/convert) ready for Specialist Publisher 
 
 ### Defra branding and print template
