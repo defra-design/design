@@ -18,14 +18,6 @@ All Defra's online services must:
 
 Go to the [Defra design standards repo](https://github.com/DEFRA/design-standards)
 
-# Design standards
-
-* [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
-* [Microsoft inclusive design principles](https://www.microsoft.com/design/inclusive/)
-* [GDS Design principles](https://www.gov.uk/design-principles) 
-* [GDS Service Manual](https://www.gov.uk/service-manual) 
-* [NHS Design: principles](https://beta.nhs.uk/service-manual/design-principles) 
-* [NHS Design: accessibility guidance](https://beta.nhs.uk/service-manual/accessibility/design)
 
 
 
