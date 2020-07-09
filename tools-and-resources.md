@@ -77,10 +77,14 @@ The User-Centred Design Community provides a structure for designers, content de
 
 [Upcoming GDS UCD training](https://designnotes.blog.gov.uk/events-and-training-in-the-user-centred-design-community/)
 
-#### Courses
+### Courses
 
 * Introduction to Design in Government
 * Getting started with the GOV.UK Prototype kit
 * Basic Introduction to User Research
 * Introduction to Service Design
 * Cross-gov design peer critique day
+
+### Workshops and meetings
+
+* [Workshop Tactics for product teams](https://www.workshoptactics.com/pages/tactics)
