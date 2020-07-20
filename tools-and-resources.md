@@ -88,3 +88,4 @@ The User-Centred Design Community provides a structure for designers, content de
 ### Workshops and meetings
 
 * [Workshop Tactics for product teams](https://www.workshoptactics.com/pages/tactics)
+* [Quick icebreakers for online meetings, (that don’t suck)](https://emilywebber.co.uk/quick-icebreakers-for-online-meetings-that-dont-suck/)
