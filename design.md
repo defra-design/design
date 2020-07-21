@@ -7,11 +7,11 @@
 * [Tools and resources](/tools-and-resources.md)
 * [Services we're working on](/service-teams.md)
 
-# Interaction Design
+# Design
 
-Interaction designers are an essential part of service teams that want to meet user needs. They work closely with the entire project team, especially User researchers, Service designers, Content designers and Software developers.
+Interaction and Service designers are essential parts of service teams that want to meet user needs. They work closely with the entire project team, especially User researchers, Service designers, Content designers and Software developers.
 
-Below are some of the activities carried out by Interaction designers
+Below are some of the activities carried out by Interaction and Service designers in Defra.
 
 ### Discovery
 
