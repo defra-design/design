@@ -8,7 +8,7 @@
 * [Services we're working on](/service-teams.md)
 
 
-## Defra Interaction design standards & guidance
+## Defra Design standards & guidance
 
 All Defra's online services must:
 
