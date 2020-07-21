@@ -8,15 +8,18 @@
 * [Services we're working on](/service-teams.md)
 
 
+## Defra Interaction design standards & guidance
 
-# Design standards
+All Defra's online services must:
 
-* [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
-* [GDS Design principles](https://www.gov.uk/design-principles) 
-* [GDS Service Manual](https://www.gov.uk/service-manual) 
-* [NHS Design: accessibility guidance](https://beta.nhs.uk/service-manual/accessibility/design)
+-   Be designed to meet the Government [service standard](https://www.gov.uk/service-manual/service-standard)
+-   Meet the [government accessibility requirements](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction#meeting-government-accessibility-requirements)
+-   Be designed based on user needs
+
+Go to the [Defra design standards repo](https://github.com/DEFRA/design-standards)
 
 
-## Defra Interaction design standards
 
----
+
+
+

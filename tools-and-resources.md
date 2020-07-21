@@ -54,9 +54,22 @@ To get an account you must set up [two factor authentication](https://help.githu
 Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting your password protected prototypes.
 
 * Download the [Gov.uk prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
-* Read [tips on working with the Gov.uk prototype kit](https://medium.com@onebcfive-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
 * Converts Google Docs into [Govspeak](https://govspeak-preview.herokuapp.com/convert) ready for Specialist Publisher 
 
+
+### Gov.uk Prototype kit blog posts
+
+* Read [tips on working with the Gov.uk prototype kit](https://medium.com/@onebc/five-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
+* [More efficient prototyping with the GOV.UK prototype kit: step by step](https://medium.com/gov-design/more-efficient-prototyping-with-the-gov-uk-prototype-kit-step-by-step-84ea2832549a)
+* [Validation for prototypes](http://www.craigabbott.co.uk/validation-for-prototypes)
+
+
+### Defra branding and print template
+
+Style guide, templates and brand assests  
+
+* [Corporate document templates](https://intranet.defra.gov.uk/forms/corporate-document-templates/)
+* [Branding](https://intranet.defra.gov.uk/how-to/correspondence/branding-corporate-templates/)
 
 ### Training
 
@@ -64,10 +77,15 @@ The User-Centred Design Community provides a structure for designers, content de
 
 [Upcoming GDS UCD training](https://designnotes.blog.gov.uk/events-and-training-in-the-user-centred-design-community/)
 
-#### Courses
+### Courses
 
 * Introduction to Design in Government
 * Getting started with the GOV.UK Prototype kit
 * Basic Introduction to User Research
 * Introduction to Service Design
 * Cross-gov design peer critique day
+
+### Workshops and meetings
+
+* [Workshop Tactics for product teams](https://www.workshoptactics.com/pages/tactics)
+* [Quick icebreakers for online meetings, (that don’t suck)](https://emilywebber.co.uk/quick-icebreakers-for-online-meetings-that-dont-suck/)
