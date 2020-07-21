@@ -10,17 +10,23 @@
 * [Services we're working on](/service-teams.md)
 
 
-# Interaction Design in Defra
+<!-- # Design in Defra
+
+Service design - Design a series of interactions
+
+Interaction design - The design of interactions (in a service) -->
+
+## Interaction Design in Defra
 
 Interaction designers design the detailed actions a user needs to make in order to use a service. They are comfortable working at both ends of the scale, from high level flows and journeys to the detail of individual elements on screen. 
 
 
-#### DDaT definition:
+### DDaT definition:
 
 An interaction designer works out the best way to let users interact with services, in terms of both overall flow and at the level of individual design elements.
 
 
-### Scope
+<!-- ### Scope
 
 * touchpoints
 * user journeys 
@@ -50,18 +56,18 @@ An interaction designer works out the best way to let users interact with servic
 * time
 * inclusivity
 * accessibility
-* useability
+* useability -->
 
-## Relationship with Service design
+## Service design in Defra
 
 Service design works across the whole service as a system mapping, joining up, and making tangible front-and-backstage processes that enable a user to achieve their goal
 
-#### DDaT definition:
+### DDaT definition:
 
 Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. Their work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.
 
 
-#### Programme example
+## Programme example
 
 | Service Design | Manage a waste removal company |
 | --- | --- |
