@@ -1,17 +1,10 @@
 
 
-<!-- * Interaction design at Defra 
-* What interaction designers do 
-* Design standards
-* Service teams
-* Community
-* Tools and resources  -->
-
 
 <!-- Nav -->
-* Interaction design
-* [What Interaction designers do](/interaction-design.md)
-* [Interaction design community](/community.md)
+* Design
+* [What designers do](/design.md)
+* [Design community](/community.md)
 * [Design standards](/standards.md)
 * [Tools and resources](/tools-and-resources.md)
 * [Services we're working on](/service-teams.md)

@@ -1,8 +1,8 @@
 
 <!-- Nav -->
-* [Interaction design](/README.md) 
-* [What Interaction designers do](/interaction-design.md)
-* Interaction design community
+* [Design](/README.md) 
+* [What designers do](/design.md)
+* Design community
 * [Design standards](/standards.md)
 * [Tools and resources](/tools-and-resources.md)
 * [Services we're working on](/service-teams.md)
