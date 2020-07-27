@@ -17,6 +17,10 @@ We are a team of 4 permanent and 10 contract designers working in Bristol, York,
 * Defra - Design community of practice, last Friday of every month - [Agenda](https://docs.google.com/document/d/1Qc1bZ5dbq5SVue0sRhM5-0LDS9H_EFj_EQpWBGip--g/edit?usp=sharing)
 * Defra - User centered design meet-up, quarterly 
 * Cross Gov - Design meet up, quarterly
+* Cross Gov - Service week, once a year 
+* Cross Gov - Service Thursday, monthly 
+* Cross Gov - Research Monday, monthly 
+* Cross Gov - Discuss a design challenge, quarterly  
 
 ## Community of practice (CoP)
 
