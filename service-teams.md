@@ -11,7 +11,7 @@
 
 |Service name|Phase|Location|
 |--- |--- |--- |
-|Check if a place in England is at risk of flooding now|Alpha|Warrington|
+|CCheck for flooding|Beta (private)|Warrington|
 |Long term flood risk information|Continuous Improvement|Warrington|
 |Flood Map for Planning|Continuous Improvement|Warrington|
 |Future flood forecasting service|Discovery|Warrington|
