@@ -11,7 +11,7 @@
 
 |Service name|Phase|Location|
 |--- |--- |--- |
-|CCheck for flooding|Beta (private)|Warrington|
+|Check for flooding|Beta (private)|Warrington|
 |Long term flood risk information|Continuous Improvement|Warrington|
 |Flood Map for Planning|Continuous Improvement|Warrington|
 |Future flood forecasting service|Discovery|Warrington|
