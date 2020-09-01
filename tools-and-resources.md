@@ -53,6 +53,8 @@ To get an account you must set up [two factor authentication](https://help.githu
 
 All prototype repo's must be named with an _proto and be managed by the design team.
 
+[View the design team prototype repositories on github](https://github.com/orgs/DEFRA/teams/design/repositories)
+
 Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting your password protected prototypes.
 
 * Download the [Gov.uk prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
