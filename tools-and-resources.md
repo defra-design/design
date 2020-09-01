@@ -51,6 +51,8 @@ Use the Defra [GitHub account](https://github.com/defra) for version control and
 
 To get an account you must set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication). 
 
+All prototype repo's must be named with an _proto and be managed by the design team.
+
 Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting your password protected prototypes.
 
 * Download the [Gov.uk prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
