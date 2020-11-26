@@ -95,3 +95,4 @@ The User-Centred Design Community provides a structure for designers, content de
 * [Quick icebreakers for online meetings, (that don’t suck)](https://emilywebber.co.uk/quick-icebreakers-for-online-meetings-that-dont-suck/)
 * [Cards for humanity](https://cardsforhumanity.idean.com/)
 * [Tarot cards of tech](http://tarotcardsoftech.artefactgroup.com/)
+* [Good Service Scale](https://docs.google.com/spreadsheets/d/1z6_WN7XYngyJd-kKSHcmKxSKVFpf4dV8RbUofUdTQ9c/edit?usp=sharing)
