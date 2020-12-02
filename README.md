@@ -73,5 +73,4 @@ Service designers design the end-to-end journey of a service. This helps a user 
 | --- | --- |
 | Interaction Design | Apply for a waste Carrier, Broker or Dealer permit |
 | Interaction Design | Apply for a standard rules waste Permit |
-| Interaction Design | Hazardous waste consignee returns |
-| Interaction Design | Send your Landfill Tax return online |
+
