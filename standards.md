@@ -6,6 +6,8 @@
 * Design standards
 * [Tools and resources](/tools-and-resources.md)
 * [Services we're working on](/service-teams.md)
+* [Specialist Publisher](/specialist-publisher.md)
+* [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 
 
 ## Defra Design standards & guidance
