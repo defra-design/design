@@ -7,6 +7,7 @@
 * [Tools and resources](/tools-and-resources.md)
 * [Services we're working on](/service-teams.md)
 * Specialist Publisher
+* [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 
 # What is Specialist Publisher
 

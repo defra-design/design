@@ -6,6 +6,7 @@
 * [Tools and resources](/tools-and-resources.md)
 * Services we're working on
 * [Specialist Publisher](/specialist-publisher.md)
+* [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 
 
 # Current service teams
