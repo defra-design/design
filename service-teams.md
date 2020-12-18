@@ -5,6 +5,7 @@
 * [Design standards](/standards.md)
 * [Tools and resources](/tools-and-resources.md)
 * Services we're working on
+* [Specialist Publisher](/specialist-publisher.md)
 
 
 # Current service teams

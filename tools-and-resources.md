@@ -6,6 +6,7 @@
 * [Design standards](/standards.md)
 * Tools and resources
 * [Services we're working on](/service-teams.md)
+* [Specialist Publisher](/specialist-publisher.md)
 
 # Tools and resources
 

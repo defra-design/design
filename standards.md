@@ -6,6 +6,7 @@
 * Design standards
 * [Tools and resources](/tools-and-resources.md)
 * [Services we're working on](/service-teams.md)
+* [Specialist Publisher](/specialist-publisher.md)
 
 
 ## Defra Design standards & guidance
