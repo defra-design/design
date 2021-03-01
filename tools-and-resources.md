@@ -34,7 +34,7 @@ Open source kits are available for wireframing:
 * [Google draw wireframing kit](https://docs.google.com/drawings/d/1d10Rl4X0_quNgLk8oPlgbXK4sfDU09OvpUsIn8Azsv8/edit)
 * [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
 * [Balsamiq wireframing kit](https://github.com/enoranidi/govuk-design-system-balsamiq)
-* [Figma wireframing kit](https://www.figma.com/file/sBXljKML2BppK3C5y6lpeL/GOVUK-Wireframing-Kit?node-id=0%3A2)
+* [Figma wireframing kit](https://www.figma.com/file/NWuFffKvPQhl3aJ9nKU0p3/GOV.UK-Design-System?node-id=23%3A233)
 
 
 ### User flows
