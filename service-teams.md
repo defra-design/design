@@ -1,5 +1,5 @@
 <!-- Nav -->
-* [Design](/README.md) 
+* [Design](/README.md)
 * [What designers do](/design.md)
 * [Design community](/community.md)
 * [Design standards](/standards.md)
@@ -7,7 +7,7 @@
 * Services we're working on
 * [Specialist Publisher](/specialist-publisher.md)
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
-
+* [Design crits](/design-crits.md)
 
 # Current service teams
 
@@ -33,5 +33,3 @@
 |Marine planning|Beta|Newcastle|
 
 [View the design team prototype repositories on github](https://github.com/orgs/DEFRA/teams/design/repositories)
-
-

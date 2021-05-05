@@ -1,6 +1,6 @@
 
 <!-- Nav -->
-* [Design](/README.md) 
+* [Design](/README.md)
 * [What designers do](/design.md)
 * [Design community](/community.md)
 * [Design standards](/standards.md)
@@ -8,10 +8,11 @@
 * [Services we're working on](/service-teams.md)
 * [Specialist Publisher](/specialist-publisher.md)
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
+* [Design crits](/design-crits.md)
 
 # Tools and resources
 
-## Components and patterns 
+## Components and patterns
 
 Design patterns solve the common problems so teams can focus on the things unique to their service and it’s users.
 
@@ -20,11 +21,11 @@ Check the [GOV.UK Design System](https://design-system.service.gov.uk/) to see i
 If you cannot find what you need in the GOV.UK Design System you can:
 
 * [see if it is being worked on by other teams across government and add your findings](https://design-system.service.gov.uk/community/backlog/)
-* [see if it is being worked on by someone in Defra](https://github.com/DEFRA/design-discussions/issues) and add your findings 
+* [see if it is being worked on by someone in Defra](https://github.com/DEFRA/design-discussions/issues) and add your findings
 * [propose a new pattern in the Defra backlog](https://github.com/DEFRA/design-discussions/issues)
 * [propose a new pattern in the GOV.UK Design System](https://design-system.service.gov.uk/community/propose-a-component-or-pattern/). All patterns must be [useful and unique](https://design-system.service.gov.uk/community/contribution-criteria/#new-proposals).
 
-* Check other departments for [design patterns and design resources](https://github.com/ctdesign/gov-design-systems-list) 
+* Check other departments for [design patterns and design resources](https://github.com/ctdesign/gov-design-systems-list)
 
 
 ## Wireframing
@@ -51,7 +52,7 @@ Use the Gov.uk Prototype kit to produce working prototypes.
 
 Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code, to get a repo set up contact [Cathy Dutton](mailto:cathy.dutton@environment-agency.gov.uk).
 
-To get an account you must set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication). 
+To get an account you must set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication).
 
 All prototype repo's must be named with an _proto and be managed by the design team.
 
@@ -60,7 +61,7 @@ All prototype repo's must be named with an _proto and be managed by the design t
 Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting your password protected prototypes.
 
 * Download the [Gov.uk prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
-* Converts Google Docs into [Govspeak](https://govspeak-preview.herokuapp.com/convert) ready for Specialist Publisher 
+* Converts Google Docs into [Govspeak](https://govspeak-preview.herokuapp.com/convert) ready for Specialist Publisher
 
 
 ### Gov.uk Prototype kit blog posts
@@ -79,7 +80,7 @@ Style guide, templates and brand assests
 
 ### Training
 
-The User-Centred Design Community provides a structure for designers, content designers and user researchers across government to learn from each other, collaborate and share best practice. 
+The User-Centred Design Community provides a structure for designers, content designers and user researchers across government to learn from each other, collaborate and share best practice.
 
 [Upcoming GDS UCD training](https://designnotes.blog.gov.uk/events-and-training-in-the-user-centred-design-community/)
 
