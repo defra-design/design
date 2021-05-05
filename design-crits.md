@@ -33,7 +33,7 @@ Design crits are about:
 
 ## Ground rules for running a design crit
 
-Design crits can be, when badly run, bruising affairs so we propose to follow six important ground rules to make sure it’s all about the work and not the individual.
+Design crits can be, when badly run, bruising affairs so we propose to follow six important ground rules to make sure it’s all about the work and not the individual. Nothing here is fixed in stone - we’ll continue to experiment and find what works best for us as a design team.
 
 1. **Crits are always moderated**
 
@@ -50,8 +50,6 @@ Design crits can be, when badly run, bruising affairs so we propose to follow si
 5. **Take notes, lots of them.** Someone must take responsibility for capturing the conversation and sharing it.
 
 6. **We don’t have to agree.** Others might say/suggest things that the designer doesn’t agree with or cannot action, but they do have a responsibility to manage expectations and be clear about what they intend to do in response (see 5).
-
-Nothing here is fixed in stone - we’ll continue to experiment and find what works best for us as a design team.
 
 
 ## Tips for getting and giving feedback
