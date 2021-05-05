@@ -27,7 +27,7 @@ We have a [#design-crits](https://defra-digital.slack.com/archives/C01REPJH9V5) 
 * what stage is the project at?
 * what are our current assumptions?
 
-You can use the [project summary cards](https://github.com/DEFRA/design/raw/master/assets/questions_and_suggestions.docx) to help set the context for a crit.
+You can use the [project summary cards](https://github.com/DEFRA/design/raw/master/assets/project-summary-cards.pdf) to help set the context for a crit.
 
 #### 2. Say what kind of feedback you want
 
@@ -70,4 +70,4 @@ Ask:
 *“Have you tried...”*
 
 
-You can use the [questions and suggestions form](https://github.com/DEFRA/design/raw/master/assets/questions-and-suggestions.docx) to help provide feedback at a crit.
+You can use the [questions and suggestions form](https://github.com/DEFRA/design/raw/master/assets/questions_and_suggestions.docx) to help provide feedback at a crit.
