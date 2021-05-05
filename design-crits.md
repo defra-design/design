@@ -12,7 +12,7 @@
 
 # Design crits
 
-A design crit is a critique, or detailed analysis of something, not a criticism in order to improve designs. Crits could be done at any stage in the design process and are useful to help improve overall services.
+A design crit is a critique, or detailed analysis of something, not a criticism in order to improve designs. Crits can be done at any stage in the design process and are useful to help improve overall services.
 
 We have a [#design-crits](https://defra-digital.slack.com/archives/C01REPJH9V5) slack channel and offer design crits to anyone who is interested in having them. You can request a design crit via Slack or [the request form](https://forms.gle/nQrFQYzd5sdLjuBK6).
 
@@ -27,7 +27,7 @@ We have a [#design-crits](https://defra-digital.slack.com/archives/C01REPJH9V5) 
 * what stage is the project at?
 * what are our current assumptions?
 
-You can use the [project summary cards](assets/project-summary-cards.docx) to help set the context for a crit.
+You can use the [project summary cards](https://github.com/DEFRA/design/raw/master/assets/questions_and_suggestions.docx) to help set the context for a crit.
 
 #### 2. Say what kind of feedback you want
 
@@ -70,4 +70,4 @@ Ask:
 *“Have you tried...”*
 
 
-You can use the [questions and suggestions form](assets/questions-and-suggestions.docx) to help provide feedback at a crit.
+You can use the [questions and suggestions form](https://github.com/DEFRA/design/raw/master/assets/questions-and-suggestions.docx) to help provide feedback at a crit.
