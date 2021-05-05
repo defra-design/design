@@ -39,11 +39,9 @@ Design crits can be, when badly run, bruising affairs so we propose to follow si
 
 2. **Everything is about the work, never about the individual.** A good critique should be honest and to the point, but never personal.
 
-    As Sarah Richards puts it, we start from the assumption that:
+    As Sarah Richards puts it, we start from the assumption that: *“everyone did the best job they could with the information they had at the time”*
 
-    *“Everyone did the best job they could with the information they had at the time”*
-
-3. **It’s a conversation and not a court.** Crits are a place to start conversations, not to challenge aggressively or criticise people for ‘doing it wrong’.
+3. **It’s a conversation and not a court.** Crits are a place to start conversations, not to aggressively challenge or criticise people for ‘doing it wrong’.
 
 4. **Be in listening, not defensive mode.** As a designer sharing work, show the work as it is, don’t pre-emptively interpret/explain/defend on its behalf.
 
