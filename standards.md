@@ -1,6 +1,6 @@
 
 <!-- Nav -->
-* [Design](/README.md) 
+* [Design](/README.md)
 * [What designers do](/design.md)
 * [Design community](/community.md)
 * Design standards
@@ -8,7 +8,7 @@
 * [Services we're working on](/service-teams.md)
 * [Specialist Publisher](/specialist-publisher.md)
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
-
+* [Design crits](/design-crits.md)
 
 ## Defra Design standards & guidance
 
@@ -19,9 +19,3 @@ All Defra's online services must:
 -   Be designed based on user needs
 
 Go to the [Defra design standards repo](https://github.com/DEFRA/design-standards)
-
-
-
-
-
-

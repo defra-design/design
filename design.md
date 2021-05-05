@@ -1,6 +1,6 @@
 
 <!-- Nav -->
-* [Design](/README.md) 
+* [Design](/README.md)
 * What designers do
 * [Design community](/community.md)
 * [Design standards](/standards.md)
@@ -8,6 +8,7 @@
 * [Services we're working on](/service-teams.md)
 * [Specialist Publisher](/specialist-publisher.md)
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
+* [Design crits](/design-crits.md)
 
 # Design
 
@@ -19,7 +20,7 @@ Below are some of the activities carried out by Interaction and Service designer
 
 In Discovery we work with user researchers to understand the service users, their experiences, goals and motivations.
 
-* build knowledge of the subject and understand the policy intent (work with stakeholders, policy and subject matter experts) 
+* build knowledge of the subject and understand the policy intent (work with stakeholders, policy and subject matter experts)
 * understand how users interact with any current service
 * attend user research (listen to phone calls, meet users, observe how people interact with current services)
 * create user journey maps
@@ -39,7 +40,7 @@ In Alpha we try out different or new solutions to the problems defined in discov
 * decide on high-level to be user journeys (online, offline, happy path, sad path etc)
 * facilitate co-design sessions with stakeholders, content designers, developers etc
 * test ideas quickly with low fidelity prototypes
-* work closely with the user researcher and attend user research sessions 
+* work closely with the user researcher and attend user research sessions
 * identify existing patterns that could be reused
 * communicate design decisions to stakeholders
 * make sure the service is inclusive
@@ -52,11 +53,11 @@ In Beta we take the best idea from alpha and start building it for real
 * design flow diagrams, screen or question sequences
 * prototype detailed interactions, components, screens etc  
 * communicate design decisions to stakeholders
-* help plan research goals 
+* help plan research goals
 * attend research sessions
 * help with research analysis
 * iterate designs based on analysis and feedback
-* iterate and refine existing design patterns where needed 
+* iterate and refine existing design patterns where needed
 * create new design patterns where needed and share with wider community
 * help the team to challenge any unnecessary questions or requests for information
 * make sure the service is inclusive
@@ -71,4 +72,3 @@ We continue to iterate services with live data and feedback
 * share research on existing Gov.uk patterns on Github
 * share any new components or patterns in Defra and cross Gov
 * share service findings and research that may influence Defra design standards and guidance documents
-

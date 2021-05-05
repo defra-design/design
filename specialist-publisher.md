@@ -1,6 +1,6 @@
 
 <!-- Nav -->
-* [Design](/README.md) 
+* [Design](/README.md)
 * [What designers do](/design.md)
 * [Design community](/community.md)
 * [Design standards](/standards.md)
@@ -8,6 +8,7 @@
 * [Services we're working on](/service-teams.md)
 * Specialist Publisher
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
+* [Design crits](/design-crits.md)
 
 # What is Specialist Publisher
 
@@ -34,7 +35,7 @@ The length of time required to deploy the service needs to be discussed with the
 ### Reference
 
 * Notes on GitHub https://github.com/alphagov/specialist-publisher
-* Examples of schemas which are stored in a JSON format https://github.com/alphagov/specialist-publisher/tree/master/lib/documents/schemas 
+* Examples of schemas which are stored in a JSON format https://github.com/alphagov/specialist-publisher/tree/master/lib/documents/schemas
 * Overview of publishing tools on GOV.UK
 * Example of a prototype used on the FCERM project which could be used to get you started https://github.com/matthewsolle/FCERM-Specialist-Publisher
 

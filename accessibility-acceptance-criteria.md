@@ -1,5 +1,5 @@
 <!-- Nav -->
-* [Design](/README.md) 
+* [Design](/README.md)
 * [What designers do](/design.md)
 * [Design community](/community.md)
 * [Design standards](/standards.md)
@@ -7,6 +7,7 @@
 * [Services we're working on](/service-teams.md)
 * [Specialist Publisher](/specialist-publisher.md)
 * Accessibility acceptance criteria
+* [Design crits](/design-crits.md)
 
 # Accessibility acceptance criteria
 
@@ -21,7 +22,7 @@ Using the latest version of the GOV.UK Design System ensures a lot of things are
 * Zoom page to 200%, then 400% - is content still legible? Test on all major browsers
 * Try without css – does content make sense and appear in a logical order?
 * Test without javascript – does content make sense and appear in a logical order?
-* View on variety of screen sizes 
+* View on variety of screen sizes
 * Used with high contrast mode
 * Invert colours (eg white on black)
 * Test with voice dictation (eg Voiceover on Mac)
