@@ -10,15 +10,21 @@
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 * Design crits
 
+
 # Design crits
 
-A design crit is a critique, or detailed analysis of something, not a criticism in order to improve designs. Crits can be done at any stage in the design process and are useful to help improve overall services.
+A design crit is a critique, or detailed analysis of something (not a criticism) in order to improve its design. Design crits can be done at any stage in the design process and help improve our services.
 
-We have a [#design-crits](https://defra-digital.slack.com/archives/C01REPJH9V5) slack channel and offer design crits to anyone who is interested in having them. You can request a design crit via Slack or [the request form](https://forms.gle/nQrFQYzd5sdLjuBK6).
+We have a [#design-crits](https://defra-digital.slack.com/archives/C01REPJH9V5) slack channel that allows you to submit work for immediate feedback.
+
+We also offer design crits to anyone who is interested in having them. You can request a design crit session via [our request form](https://forms.gle/nQrFQYzd5sdLjuBK6).
+
 
 ## Tips for getting and giving feedback
 
+
 ### Getting feedback
+
 
 #### 1. Set the context
 
@@ -29,12 +35,14 @@ We have a [#design-crits](https://defra-digital.slack.com/archives/C01REPJH9V5) 
 
 You can use the [project summary cards](https://github.com/DEFRA/design/raw/master/assets/project-summary-cards.pdf) to help set the context for a crit.
 
+
 #### 2. Say what kind of feedback you want
 
 * graphic design
 * interaction design
 * service design
 * content design
+
 
 #### 3. Let the team review the work
 
@@ -44,11 +52,14 @@ You can use the [project summary cards](https://github.com/DEFRA/design/raw/mast
 * do take notes
 * do listen
 
+
 ### Giving feedback
+
 
 #### 1. Listen to the context
 
 * ask questions if you need to
+
 
 #### 2. Give the right kind of feedback
 
