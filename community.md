@@ -40,7 +40,7 @@ Sign up to Slack using '_defra' at the end of your name.
 #### Recommended channels
 
 * Defra - design
-* * Defra - ucd
+* Defra - ucd
 * Defra - user research
 * Defra - accessibility
 * Defra - flood-ucd (Warrington)
