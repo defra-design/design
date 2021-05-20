@@ -17,53 +17,102 @@ Interaction design - The design of interactions (in a service) -->
 
 ## Interaction Design in Defra
 
-Interaction designers design the detailed actions a user needs to make in order to use a service. They are comfortable working at both ends of the scale, from high level flows and journeys to the detail of individual elements on screen.
+An Interaction designer designs how things should work, they remove risk by testing ideas early and often with real users.
 
+### What is interaction design? 
 
-### DDaT definition:
+A design practice that works out the best way to let users interact with a product or sub-service. This is done to make sure we create inclusive and accessible products that can be used by all people
 
-An interaction designer works out the best way to let users interact with services, in terms of both overall flow and at the level of individual design elements.
+### Why do it? 
 
+Interaction design removes the risk of developing systems that don't meet user needs by:
 
-<!-- ### Scope
+ * Testing assumptions, hypothesis, and designs early and often
+ * ensuring the product is inclusive and accessible
+ 
+Interaction design along with other disciplines helps us create products that:
 
-* touchpoints
-* user journeys
-* actions
-* tasks
+ * Meet the Government service standard
+ * Meet Government accessibility regulations
+ * Meet current web standards
+ * Meet user and organisational needs
+ * Are simple and intuitive to use
+ * Work in a way that is familiar
+ * Require the minimum possible steps to complete
+ * Are consistent throughout
+ * Are usable by everyone, equally
 
-### Scale/zoom
+### When to do it 
 
-* high level - User journey maps
-* mid level - Flow diagram, Interaction sequence, Screen sequence, Question sequence
-* low level - Structure, Screen layout, Components
+Interaction design is applicable throughout the agile delivery phases: Discovery, Alpha, Beta and Live (as defined by GDS). In addition, Interaction designers work on upgrading legacy applications and rolling out changes to ensure Defra’s web estate is consistent and meets current standards and regulations.
 
+### Benefits 
 
-### Goal
+Interaction design supports digital delivery to ensure benefits can be realised
 
-* visualise a users perspective
-* highlight pain points
-* highlight areas for improvement
-* design how users interact with services
+ * Reduces risk, development and maintenance costs by testing assumptions and hypothesis
+ * Improves outcomes by facilitating design sessions to ensure a wide range of possibilities are considered
+ * Improves performance and reduces the number of user errors
+ * Increases user satisfaction and trust in both the service and Defra
+ * Improves efficiency through consistency and familiarity
 
-### focus
-
-* users
-* context
-* situations
-* when/where
-* time
-* inclusivity
-* accessibility
-* useability -->
 
 ## Service design in Defra
 
-Service design works across the whole service as a system mapping, joining up, and making tangible front-and-backstage processes that enable a user to achieve their goal
+A service designer makes sure we design and deliver the right service. They work in program teams that may support multiple product or sub-servie teams teams. They also work in the space before Discovery shaping and scoping future work.
+ 
+**Program teams**:
 
-### DDaT definition:
+Services as end-users would know them transcend delivery or product teams. Service designers work across a program of work to design the interactions and building blocks that make a service. The service designer may support multiple product teams to provide insight on how to achieve desired outcomes in a measurable way.
+ 
+**Project scoping**:
 
-Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. Their work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.
+This stage is about establishing the problem/costs/issues that you want to look at including the people and skills you are likely to need for Discovery. A service designer will work with the business and policy upfront to understand what we have, define the problem(s) to be solved, and the desired outcome(s).
+
+### What is Service Design?  
+
+A design practice that helps organisations understand, visualise and orchestrate all the different components of a service e.g. people, digital services, comms, processes and aligns them with the end user’s needs. This is done in order that service provides the best possible outcomes for the organisation, its stakeholders and its end users.
+
+### Why do it? 
+
+By working across organisational boundaries, Service Design helps users complete their goals by solving problems that sit outside the normal remit of Interaction and Content Design.
+
+Service design
+
+ * Builds context and understanding of end users lives
+ * Brings visibility to customer journeys and the pain points that limit service use
+ * Highlights organisational/ structural issues that prevent good service outcomes
+
+Service design along with other disciplines will help us create services that:
+
+ * Are easy to find
+ * Clearly explain the purpose of the service
+ * Set expectations a user has of the service
+ * Enable each user to complete the outcome they set out to do
+ * Work in a way that is familiar
+ * Require no prior knowledge to use
+ * Are agnostic of organisational structures
+ * Require the minimum possible steps to complete
+ * Are consistent throughout
+ * Have no dead ends
+ * Are usable by everyone, equally
+ * Encourage the right behaviours from users and service providers
+ * Respond to change quickly
+ * Clearly explain why a decision has been made
+ * Make it easy to get human assistance
+
+### When to do it 
+
+Service Design is applicable throughout the agile delivery phases Discovery, Alpha, Beta and Live (as defined by GDS). In addition it is valuable to use Service design approaches in pre-discovery in order to diagnose and scope out the problems that need to be addressed. Often requests are made to build defined things i.e. an app, a page, a service which presuppose a solution, working pre discovery allows stakeholders to avoid this issue with good problem definition.
+
+### Benefits 
+
+Service design supports digital design to ensure benefits can be realised
+
+ * Reduces risk by ensuring the right problem is solved
+ * Creates efficiencies by identifying service siloes, duplication and proliferation
+ * Ensures user and stakeholder outcomes are designed into the service
+
 
 
 ## Programme example
