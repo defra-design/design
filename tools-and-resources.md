@@ -50,13 +50,14 @@ Open source kits are available for producing flow diagrams:
 
 Use the Gov.uk Prototype kit to produce working prototypes.
 
-Use the Defra [GitHub account](https://github.com/defra) for version control and sharing code, to get a repo set up contact [Cathy Dutton](mailto:cathy.dutton@environment-agency.gov.uk).
+Use the Defra [GitHub account](https://github.com/defra-design) for version control and sharing code, to get a repo set up contact the UCDOperations team or your line maager.
 
 To get an account you must set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication).
 
 All prototype repo's must be named with an _proto and be managed by the design team.
 
-[View the design team prototype repositories on github](https://github.com/orgs/DEFRA/teams/design/repositories)
+* [View the design team prototype repositories on github](https://github.com/orgs/DEFRA/teams/design/repositories)
+* [View the design team prototype repositories on the new design team github](https://github.com/defra-design)
 
 Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting your password protected prototypes.
 
