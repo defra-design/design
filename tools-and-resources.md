@@ -50,7 +50,7 @@ Open source kits are available for producing flow diagrams:
 
 Use the Gov.uk Prototype kit to produce working prototypes.
 
-Use the Defra [GitHub account](https://github.com/defra-design) for version control and sharing code, to get a repo set up contact the UCD Operations team or your line maager.
+Use the Defra [GitHub account](https://github.com/defra-design) for version control and sharing code, to get a repo set up contact the UCD Operations team or your line manager.
 
 To get an account you must set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication).
 
