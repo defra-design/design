@@ -10,9 +10,9 @@
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 * [Design crits](/design-crits.md)
 
-# Design
+# Interaction Design
 
-Interaction and Service designers are essential parts of service teams that want to meet user needs. They work closely with the entire project team, especially User researchers, Service designers, Content designers and Software developers.
+Interaction designers are essential parts of service teams that want to meet user needs. They work closely with the entire project team, especially User researchers, Service designers, Content designers and Software developers.
 
 Below are some of the activities carried out by Interaction and Service designers in Defra.
 
@@ -72,3 +72,23 @@ We continue to iterate services with live data and feedback
 * share research on existing Gov.uk patterns on Github
 * share any new components or patterns in Defra and cross Gov
 * share service findings and research that may influence Defra design standards and guidance documents
+
+
+# Service Design
+
+Services as end users would know them transcend delivery or product teams. Service designers work across a programme of work to design the interactions and building blocks that make a new service. The service designer may support multiple product teams to provide insight on how to achieve desired outcomes in a measurable way.
+ 
+
+A Service Designer will:
+
+* Identify the main business drivers 
+* Work with the team to define the problems we are trying to solve
+* Work with Policy to define the outcomes we want to deliver
+* Create as is user journeys, highlighting pain points, dependencies, areas for improvements and hypothesis to test
+* Develop a strategic vision for the service 
+* Design the interactions and building blocks that make up the service
+* Create service prototypes to test ideas and assumptions
+* Influence performance reporting so we measure and target improvements to things that matter to users
+* Lead on ensuring that interactions and user journeys across the programme are rational and consistent
+
+
