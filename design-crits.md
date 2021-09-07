@@ -15,7 +15,7 @@
 
 A design crit is a critique, or detailed analysis of something (not a criticism) in order to improve its design. Design crits can be done at any stage in the design process and help improve our services.
 
-We have a [#design-crits](https://defra-digital.slack.com/archives/C01REPJH9V5) slack channel that allows you to submit work for immediate feedback.
+We have a [#design-crits](https://defra-digital.slack.com/archives/C01REPJH9V5) slack channel that allows you to submit your work for immediate feedback.
 
 We also offer design crits to anyone who is interested in having them. You can request a design crit session via [our request form](https://forms.gle/nQrFQYzd5sdLjuBK6).
 
@@ -31,9 +31,9 @@ Design crits are about:
 * sharing what we learn with the design team and government more widely
 
 
-## Ground rules for running a design crit
+## Proposed ground rules for running a design crit
 
-Design crits can be, when badly run, bruising affairs so we propose to follow six important ground rules to make sure it’s all about the work and not the individual. Nothing here is fixed in stone - we’ll continue to experiment and find what works best for us as a design team.
+Design crits can be, when badly run, bruising affairs so we propose to follow six important ground rules to make sure it’s all about the work and not the individual. These are proposals and nothing here is fixed in stone - we’ll continue to experiment and find what works best for us as a design team.
 
 1. **Crits are always moderated**
 
