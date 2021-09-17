@@ -122,7 +122,7 @@ A Service Designer will:
 * Create prototypes to test policy
 
 
-### Pre discovery (feasibility study)
+### Exploration
 10 -12 weeks
 
 Working alongside policy, BA’s and architecture to understand the main business drivers, problems to be solved and desired outcomes before moving to Discovery. 
