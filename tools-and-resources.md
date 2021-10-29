@@ -46,7 +46,7 @@ Open source kits are available for producing flow diagrams:
 * [Google draw flow kit](https://www.beatnic.co.uk/2019/10/04/google-drawing-template-gov-flow-kit/)
 
 
-### Gov.uk Prototype kit
+## Gov.uk Prototype kit
 
 Use the Gov.uk Prototype kit to produce working prototypes.
 
@@ -64,6 +64,13 @@ Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku
 * Download the [Gov.uk prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
 * Converts Google Docs into [Govspeak](https://govspeak-preview.herokuapp.com/convert) ready for Specialist Publisher
 
+### Extensions
+
+These are node modules that can be install to add functionality to the prototype kit
+
+* [Custom filters that help to solve common prototyping challenges](https://github.com/defra-design/extra-filters)
+* [Defra page template for internal services](https://www.npmjs.com/package/defra-template)
+* [Defra page template for showing flood warnings](https://www.npmjs.com/package/flood-banner)
 
 ### Gov.uk Prototype kit blog posts
 
