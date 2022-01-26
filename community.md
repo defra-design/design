@@ -12,7 +12,7 @@
 
 # Design community
 
-We are a team of 4 permanent and 10 contract designers working in Bristol, York, Reading and Warrington.
+We are a team of 9 permanent and 26 contract designers working in Bristol, York, and Warrington.
 
 ## Meet ups
 
