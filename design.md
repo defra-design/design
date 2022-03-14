@@ -142,7 +142,7 @@ A Service Designer will:
  
 * Conduct initial stakeholder/ user exploration
 * Document insights
-* Facilitate idea Generation
+* Facilitate idea generation
 * Run co-design sessions to test and build on hypotheses
 * Create prototypes to test policy
 
@@ -150,14 +150,14 @@ A Service Designer will:
 ### Exploration
 10 -12 weeks
 
-Working alongside policy, BA’s and architecture to understand the main business drivers, problems to be solved and desired outcomes before moving to Discovery. 
+Working alongside policy, business analysis and architecture to understand the main business drivers, problems to be solved and desired outcomes before moving to Discovery. 
 
 A Service Designer will:
 
 * Identify the main business drivers 
 * Gather existing insight about the users of any current service and high level pain points 
 * Gather existing insight about user needs
-* Identify SMEs and key stakeholders
+* Identify subject matter experts and key stakeholders
 * Align proposed work to strategy and programme vision
 * Work with Policy to define the problems we are trying to solve
 * Work with Policy to define the outcomes we want to deliver
@@ -204,4 +204,4 @@ A Service Designer will:
 * Identify opportunities to align our services with user journeys and tasks 
 * Lead on ensuring that interactions and user journeys across the programme are rational and consistent
 * Understand user needs and track interactions across departmental and organisational boundaries 
-Influence performance reporting so we measure and target improvements to things that 
+* Influence performance reporting so we measure and target improvements to things that 
