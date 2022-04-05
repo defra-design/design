@@ -25,7 +25,7 @@ If you cannot find what you need in the GOV.UK Design System you can:
 * [propose a new pattern in the Defra backlog](https://github.com/DEFRA/design-discussions/issues)
 * [propose a new pattern in the GOV.UK Design System](https://design-system.service.gov.uk/community/propose-a-component-or-pattern/). All patterns must be [useful and unique](https://design-system.service.gov.uk/community/contribution-criteria/#new-proposals).
 
-* Check other departments for [design patterns and design resources](https://github.com/ctdesign/gov-design-systems-list)
+* Check x-govuk for [design patterns and design resources] from other government departments (https://x-govuk.github.io/)
 
 
 ## Wireframing
@@ -78,6 +78,9 @@ These are node modules that can be install to add functionality to the prototype
 * [More efficient prototyping with the GOV.UK prototype kit: step by step](https://medium.com/gov-design/more-efficient-prototyping-with-the-gov-uk-prototype-kit-step-by-step-84ea2832549a)
 * [Validation for prototypes](http://www.craigabbott.co.uk/validation-for-prototypes)
 
+### Documentation
+
+* [Gov.uk Eleventy plugin](https://x-govuk.github.io/govuk-eleventy-plugin/)
 
 ### Defra branding and print template
 
