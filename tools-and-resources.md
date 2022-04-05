@@ -46,9 +46,9 @@ Open source kits are available for producing flow diagrams:
 * [Google draw flow kit](https://www.beatnic.co.uk/2019/10/04/google-drawing-template-gov-flow-kit/)
 
 
-## Gov.uk Prototype kit
+## GOV.UK Prototype kit
 
-Use the Gov.uk Prototype kit to produce working prototypes.
+Use the GOV.UK Prototype kit to produce working prototypes.
 
 Use the Defra [GitHub account](https://github.com/defra-design) for version control and sharing code, to get a repo set up contact the UCD Operations team or your line manager.
 
@@ -80,7 +80,8 @@ These are node modules that can be install to add functionality to the prototype
 
 ### Documentation
 
-* [Gov.uk Eleventy plugin](https://x-govuk.github.io/govuk-eleventy-plugin/)
+* [GOV.UK Eleventy plugin](https://x-govuk.github.io/govuk-eleventy-plugin/)
+* [GOV.UK Design History](https://design-history.herokuapp.com/)
 
 ### Defra branding and print template
 
