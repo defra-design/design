@@ -86,6 +86,8 @@ Open source kits are available for wireframing:
 
 ## User flows
 
+The supported and approved whiteboarding tool in the Defra Design Team is Mural. UPDATE TO FOLLOW ON ROLL OUT OF MURAL AS THE DEFAULT TOOL IN FEBRUARY 2023. In the meantime, please use your own free Mural account or the existing Defra Design Team Miro account.
+
 Open source kits are available for producing flow diagrams:
 
 * [Sketch flow kit](https://github.com/charlesrt/gov-flow)
