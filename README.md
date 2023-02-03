@@ -1,5 +1,5 @@
 <!-- Nav -->
-* Design
+* Interaction Design and Service Design
 * [What designers do](/design.md)
 * [Design community](/community.md)
 * [Design standards](/standards.md)
