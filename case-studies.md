@@ -14,7 +14,7 @@ Below we have started collecting relevant case studies of the work we do
 
 ## Design history
 
-[A directory of design histories](https://x-govuk.github.io/govuk-design-history/directory/)
-[Design history template](https://x-govuk.github.io/govuk-design-history/)
-[Design history example - Submit social housing lettings and sales data (CORE)](https://core-design-history.herokuapp.com/)
-[Design history example - Becoming a teacher](https://bat-design-history.netlify.app/)
+* [A directory of design histories](https://x-govuk.github.io/govuk-design-history/directory/)
+* [Design history template](https://x-govuk.github.io/govuk-design-history/)
+* [Design history example - Submit social housing lettings and sales data (CORE)](https://core-design-history.herokuapp.com/)
+* [Design history example - Becoming a teacher](https://bat-design-history.netlify.app/)
