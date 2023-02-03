@@ -76,7 +76,7 @@ The key principles of being a service designer are:
 
 ### What is Service Design?  
 
-To help us understand what we mean by service design and end-to-end services in government, Scott Colfer’s [Product Management Handbook](http://scottcolfer.com/product-management-handbook/ "‌") highlights three principles from two key blog posts by Louise Downe [https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/ "smartCard-inline") and Kate Tarling [https://hodigital.blog.gov.uk/2016/12/21/creating-a-common-language-to-describe-services/](https://hodigital.blog.gov.uk/2016/12/21/creating-a-common-language-to-describe-services/ "smartCard-inline")
+To help us understand what we mean by service design and end-to-end services in government, Scott Colfer’s [Product Management Handbook](http://scottcolfer.com/product-management-handbook/) highlights three principles from two key blog posts by Louise Downe [Good Services are Verbs](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) and Kate Tarling [A Common Language to Describe Services](https://hodigital.blog.gov.uk/2016/12/21/creating-a-common-language-to-describe-services/)
 
 A service helps a user to do something that needs to be done
 
@@ -126,7 +126,7 @@ Example
 
 “For example, judged from a pure interaction design practice point-of-view, Uber is clearly an exemplary user experience. Yet judged from a wider urban design point-of-view, its impact appears to be hugely damaging, with vast numbers of vehicles incentivised to drive into the middle of cities, apparently leading to increased congestion and reduced public transport use. Seeing like a system, it looks like a product designed to get drivers onto the road, at the expense of more sustainable options. Needless to say, this is literally the opposite of what most city governments are trying to achieve at this point. In effect, Uber works for the individual – a car is always within range – precisely because it does not work for the city, as the streets are deliberately congested with drivers.”
 
-From [https://medium.com/dark-matter-and-trojan-horses/the-city-is-my-homescreen-317673e0f57a](https://medium.com/dark-matter-and-trojan-horses/the-city-is-my-homescreen-317673e0f57a "smartCard-inline")
+From [The City is My Homescreen](https://medium.com/dark-matter-and-trojan-horses/the-city-is-my-homescreen-317673e0f57a)
 
 ### Why do it?
 
