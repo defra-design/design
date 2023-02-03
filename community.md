@@ -1,34 +1,23 @@
 
 <!-- Nav -->
-* [Design](/README.md)
-* [What designers do](/design.md)
-* Design community
-* [Design standards](/standards.md)
-* [Tools and resources](/tools-and-resources.md)
-* [Services we're working on](/service-teams.md)
+* [Interaction design and service design](/README.md)
+* [What interaction designers and service designers do](/design.md)
+* Defra Design community
+* [Tools, resources and standards](/tools-and-resources.md)
 * [Specialist Publisher](/specialist-publisher.md)
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 * [Design crits](/design-crits.md)
+* [Case studies](/case-studies.md)
 
-# Design community
+# Defra Design community
 
-We are a team of 9 permanent and 26 contract designers working in Bristol, York, and Warrington.
-
-## Meet ups
-
-* Defra - Design community of practice, last Thursday of every month - [Agenda](https://docs.google.com/document/d/1Qc1bZ5dbq5SVue0sRhM5-0LDS9H_EFj_EQpWBGip--g/edit?usp=sharing)
-* Defra - User centered design meet-up, quarterly
-* Cross Gov - Design meet up, quarterly
-* Cross Gov - Service week, once a year
-* Cross Gov - Service Thursday, monthly
-* Cross Gov - Research Monday, monthly
-* Cross Gov - Discuss a design challenge, quarterly  
+We are a team of interaction designers and service designers working from across the UK on projects, services and programmes here at Defra. We are based around Bristol, York, Warrington, Newcastle and London.
 
 ## Community of practice (CoP)
 
-*  Warrington Community of Practice, every two weeks on Wednesday afternoon
-*  Bristol Community of Practice, every month on Thursday afternoon
-*  York Community of Practice, lunchtime meet ups  
+* Defra - Design community of practice, first three Wednesdays of every month - [Agenda](https://trello.com/b/sdPUAgzZ/defra-design-team-meetings)
+* Defra - UCD Show & Tell [Agenda](https://defra.sharepoint.com/:x:/r/teams/Team1340/UCDLeadershipTemp/UCD%20Monthly%20Show%20and%20Tell%20Line%20up.xlsx?d=wfeb651a1cd7645cfbfc900008ff12c68&csf=1&web=1&e=sZk6GO)
+* Defra - User centered design meet-up, quarterly
 
 ### Slack
 
@@ -50,7 +39,6 @@ Sign up to Slack using '_defra' at the end of your name.
 * Gov - govuk-design-system
 * Gov - accessibility
 * Gov - user-research
-
 
 ### Mailing lists
 
