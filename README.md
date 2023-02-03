@@ -1,13 +1,12 @@
 <!-- Nav -->
 * Interaction design and service design
 * [What interaction designers and service designers do](/design.md)
-* [Design community](/community.md)
-* [Design standards](/standards.md)
-* [Tools and resources](/tools-and-resources.md)
-* [Services we're working on](/service-teams.md)
+* [Defra Design community](/community.md)
+* [Tools, resources and standards](/tools-and-resources.md)
 * [Specialist Publisher](/specialist-publisher.md)
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 * [Design crits](/design-crits.md)
+* [Case studies](/case-studies.md)
 
 <!-- # Design in Defra
 
