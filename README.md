@@ -15,7 +15,7 @@ Service design - Design a series of interactions
 
 Interaction design - The design of interactions (in a service) -->
 
-## Interaction Design in Defra
+## Interaction design in Defra
 
 Interaction designers are essential parts of service teams that work to meet user needs, design standards and accessibility legislation. They also make sure all work is aligned to the service vision and that it adds value for users. They work closely with the entire project team, especially user researchers, service designers, content designers and software developers.
 
@@ -74,7 +74,7 @@ The key principles of being a service designer are:
 * Explore and prototype various solutions to the problem
 * Design the service end to end, from backstage to front, in all channels
 
-### What is Service Design?  
+### What is service design?  
 
 To help us understand what we mean by service design and end-to-end services in government, Scott Colfer’s [Product Management Handbook](http://scottcolfer.com/product-management-handbook/) highlights three principles from two key blog posts by Louise Downe [Good Services are Verbs](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) and Kate Tarling [A Common Language to Describe Services](https://hodigital.blog.gov.uk/2016/12/21/creating-a-common-language-to-describe-services/).
 
