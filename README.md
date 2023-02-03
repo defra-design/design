@@ -19,11 +19,11 @@ Interaction design - The design of interactions (in a service) -->
 
 Interaction designers are essential parts of service teams that work to meet user needs, design standards and accessibility legislation. They also make sure all work is aligned to the service vision and that it adds value for users. They work closely with the entire project team, especially user researchers, service designers, content designers and software developers.
 
-Interaction designers lead teams to design accessible public and staff-facing digital products that are simple enough for everyone to use and that work across multiple channels, devices, browsers and platforms. When solving complex problems, the role of interaction design is to see the bigger picture as well as the fine detail, how things currently work and how they could work. They know how to remove complexity from services and are able to explain ideas in a way that other people understand. They will measure recently released product features to establish benchmarks and to identify potential areas of improvement. One of the key responsibilities of interaction design is to lead on the direction of new interaction patterns, standards and consistency in how products are designed. Interaction design's core aim is to help government transform the way it delivers services so that they're more efficient, simpler, faster and easier to use
+Interaction designers lead teams to design accessible public and staff-facing digital products that are simple enough for everyone to use and that work across multiple channels, devices, browsers and platforms. When solving complex problems, the role of interaction design is to see the bigger picture as well as the fine detail, how things currently work and how they could work. They know how to remove complexity from services and are able to explain ideas in a way that other people understand. They will measure recently released product features to establish benchmarks and to identify potential areas of improvement. One of the key responsibilities of interaction design is to lead on the direction of new interaction patterns, standards and consistency in how products are designed. Interaction design's core aim is to help government transform the way it delivers services so that they're more efficient, simpler, faster and easier to use.
 
 ### What is interaction design?
 
-A design practice that works out the best way to let users interact with a product or sub-service. This is done to make sure we create inclusive and accessible products that can be used by all people
+A design practice that works out the best way to let users interact with a product or sub-service. This is done to make sure we create inclusive and accessible products that can be used by all people.
 
 ### Why do it?
 
@@ -50,7 +50,7 @@ Interaction design is applicable throughout the agile delivery phases: Discovery
 
 ### Benefits
 
-Interaction design supports digital delivery to ensure benefits can be realised
+Interaction design supports digital delivery to ensure benefits can be realised:
 
  * Reduces risk, development and maintenance costs by testing assumptions and hypothesis
  * Improves outcomes by facilitating design sessions to ensure a wide range of possibilities are considered
@@ -76,7 +76,7 @@ The key principles of being a service designer are:
 
 ### What is Service Design?  
 
-To help us understand what we mean by service design and end-to-end services in government, Scott Colfer’s [Product Management Handbook](http://scottcolfer.com/product-management-handbook/) highlights three principles from two key blog posts by Louise Downe [Good Services are Verbs](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) and Kate Tarling [A Common Language to Describe Services](https://hodigital.blog.gov.uk/2016/12/21/creating-a-common-language-to-describe-services/)
+To help us understand what we mean by service design and end-to-end services in government, Scott Colfer’s [Product Management Handbook](http://scottcolfer.com/product-management-handbook/) highlights three principles from two key blog posts by Louise Downe [Good Services are Verbs](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) and Kate Tarling [A Common Language to Describe Services](https://hodigital.blog.gov.uk/2016/12/21/creating-a-common-language-to-describe-services/).
 
 A service helps a user to do something that needs to be done
 
@@ -120,7 +120,7 @@ Examples of activities:
 
 Technology:
 
-‘Technology’ means the digital systems, products, tools, hardware and applications we build, maintain and buy. Technology exists to support activities and capabilities – and enables us to deliver faster, clearer, simpler services
+‘Technology’ means the digital systems, products, tools, hardware and applications we build, maintain and buy. Technology exists to support activities and capabilities – and enables us to deliver faster, clearer, simpler services.
 
 Example
 
