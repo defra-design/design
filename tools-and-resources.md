@@ -1,16 +1,15 @@
 
 <!-- Nav -->
-* [Design](/README.md)
-* [What designers do](/design.md)
-* [Design community](/community.md)
-* [Design standards](/standards.md)
-* Tools and resources
-* [Services we're working on](/service-teams.md)
+* [Interaction design and service design](/README.md)
+* [What interaction designers and service designers do](/design.md)
+* [Defra Design community](/community.md)
+* Tools, resources and standards
 * [Specialist Publisher](/specialist-publisher.md)
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 * [Design crits](/design-crits.md)
+* [Case studies](/case-studies.md)
 
-# Tools and resources
+# Tools, resources and standards
 
 ## GOV.UK Prototype kit
 
@@ -62,7 +61,7 @@ These are node modules that can be install to add functionality to the prototype
 * [Defra page template for internal services](https://www.npmjs.com/package/defra-template)
 * [Defra page template for showing flood warnings](https://www.npmjs.com/package/flood-banner)
 
-### Gov.uk Prototype kit blog posts
+### GOV.UK Prototype kit blog posts
 
 * Read [tips on working with the Gov.uk prototype kit](https://medium.com/@onebc/five-tips-from-five-weeks-using-the-gov-uk-prototyping-kit-b63f5592cc14)
 * [More efficient prototyping with the GOV.UK prototype kit: step by step](https://medium.com/gov-design/more-efficient-prototyping-with-the-gov-uk-prototype-kit-step-by-step-84ea2832549a)
