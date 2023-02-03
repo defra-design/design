@@ -1,6 +1,6 @@
 <!-- Nav -->
-* Interaction Design and Service Design
-* [What designers do](/design.md)
+* Interaction design and service design
+* [What interaction designers and service designers do](/design.md)
 * [Design community](/community.md)
 * [Design standards](/standards.md)
 * [Tools and resources](/tools-and-resources.md)
