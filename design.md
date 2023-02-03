@@ -69,7 +69,7 @@ How interaction designers support live:
 * Work with other organisations that provide services that are part of the same service journey in order to iterate towards solving a whole problem for users
 * Iterate and test designs with users
 
-## New features
+### New features
 
 What is it? - An interaction designer makes sure any additional features are designed to meet user needs, design standards and accessibility legislation. They also make sure new features are aligned to the service vision and add value for users.
 
@@ -79,7 +79,7 @@ An interaction designer will:
 * design and test prototypes to make sure new features are usable and inclusive
 * create reusable patterns and components that can be rolled out across Defra
 
-## External changes
+### External changes
 
 What is it? - An interaction designer updates products in response to changes in external components, legislation or services that the application depends on.
 
@@ -88,7 +88,7 @@ An interaction designer will:
 * understand how changes will impact users
 * design and test prototypes to make sure new features are usable and inclusive
 
-## Legacy products/sub-services
+### Legacy products/sub-services
 
 What is it? - An interaction designer works on legacy applications making sure products are inline with current design standards and accessibility legislation.
 
@@ -105,8 +105,63 @@ Service designers help to define the scope of the service whether it is a minima
 And when the time comes, service designers facilitate the design of the service from end to end across all channels both online and offline, from backstage processes and activities to front user-facing products and tasks. This facilitation allows the whole team to be involved and to ensure the best solution is reached.
 
 When mapping a users' journey, a service designer will include a view of an entire system with all of its stakeholders and all of its pain points to ensure they are spotting all opportunities for reducing cost, reducing complexity and reducing the steps for a user to achieve their goal. In the Discovery phase, 90% of a service designer's work is archaeology.
+
+### Discovery
+
+How service designers support discovery:
+
+* Question the scope of the discovery – broaden it, rescope it (and if necessary initiate further discovery)
+* Keep the team on track for an appropriately wide discovery
+* Understand who the users and user groups of the service/system/thing are (primary users, secondary users, internal users)
+* Investigate users’ contexts, needs, potential gains, pain points
+* Synthesise user research data and share findings back to the wider team and key stakeholders
+* Sift through quantitative data and link it to qualitative findings, potentially initiate more
+* Research and describe underlying support systems and technologies
+* Analyse dependencies (contractual, legal, technological, ethical)
+* Map the as-is state of the service offered today
+* Map all stakeholders involved in the provision of the service to end users
+* Capture what the provision of service in different channels looks like
+* Research how much the service costs to operate, who funds it and how and how it is funded today and how it expensive its provision is
+* Read policy documents, laws, standards, regulations and question today’s
+* Summarise major pain points of users and opportunities for service (re)-development / improvements
+* Help the team agree scope and boundaries and decide when is the right time to move into Alpha
+* Articulate the vision for the service (with product manager/service owner)
+
+### Alpha
+
+How service designers support the alpha phase:
+
+* Understand and respond to the users of a service and the context they are in
+* Identify what the real problem is
+* Develop a strategic vision for the service (final destination, not just the plan for beta)
+* With the product manager, hold the vision for the team
+* Work with team to develop a scaffolded approach to delivering the vision
+* Help define problems for interaction designers to explore
+* Map and visualise the journey of users
+* Facilitate a shared understanding within and outside of the team
+* Spot opportunities for reducing cost and complexity
+* Help define the scope of the service
+* What are the feasible and useful fixes you can do - low hanging fruit where change is feasible, easy and beneficial for the user, and what is harder to do
+* Explore and prototype various solutions to the problem
+
+### Beta
+
+How service designers support the beta phase:
+
+* Keep track of user needs as the service is used and help prioritise into fixes, new features and functionality
+* Help the service to understand and decide what new usage, contexts and features should be incorporated into digital channels or built into other channels and support systems
+* Find and implement improvements to the service in all channels
+* Work with caseworkers and support teams to make sure that user’s needs and problems are represented in the development teams, and incorporate feedback that will help caseworkers do their jobs better
+
+### Live
+
+How service designers support live:
+
+* Identify areas for automation or improvement to make internal processes simpler and more efficient
+* Identify customer and user behaviours and process for continuously provide feedback to product and service teams
+* Provide a holistic view, from digital and physical channels and human interactions and ongoing identification of metrics and opportunities
  
-## Scoping/shaping
+### Scoping/shaping
 
 Working with the business and policy upfront to understand what we have, what we might need to do and why. This stage is about establishing the problem/costs/issues that you want to look at. Including the people and skills you are likely to need for discovery. At this stage we need to define the problem(s) and the desired outcome(s).
 
@@ -162,7 +217,7 @@ A Service Designer will:
 * Work with the team to provide recommendations for how to take the work forward
 * Frame and create problem statements for discovery
 
-## New programmes of work
+### New programmes of work
  
 Services as end users would know them transcend delivery or product teams. Service designers work across a programme of work to design the interactions and building blocks that make a new service. The service designer may support multiple product teams to provide insight on how to achieve desired outcomes in a measurable way.
 
@@ -178,7 +233,7 @@ A Service Designer will:
 * Influence performance reporting so we measure and target improvements to things that matter to users
 * Lead on ensuring that interactions and user journeys across the programme are rational and consistent
 
-## Existing programmes of work
+### Existing programmes of work
 
 Service designers work with existing programmes to help connect discrete digital projects to deliver a joined up service vision, provide cost efficiencies, and increase the effectiveness with which end-user benefits are delivered.
 
@@ -193,58 +248,3 @@ A Service Designer will:
 * Lead on ensuring that interactions and user journeys across the programme are rational and consistent
 * Understand user needs and track interactions across departmental and organisational boundaries 
 * Influence performance reporting so we measure and target improvements to things that
-
-## Discovery
-
-How service designers support discovery:
-
-* Question the scope of the discovery – broaden it, rescope it (and if necessary initiate further discovery)
-* Keep the team on track for an appropriately wide discovery
-* Understand who the users and user groups of the service/system/thing are (primary users, secondary users, internal users)
-* Investigate users’ contexts, needs, potential gains, pain points
-* Synthesise user research data and share findings back to the wider team and key stakeholders
-* Sift through quantitative data and link it to qualitative findings, potentially initiate more
-* Research and describe underlying support systems and technologies
-* Analyse dependencies (contractual, legal, technological, ethical)
-* Map the as-is state of the service offered today
-* Map all stakeholders involved in the provision of the service to end users
-* Capture what the provision of service in different channels looks like
-* Research how much the service costs to operate, who funds it and how and how it is funded today and how it expensive its provision is
-* Read policy documents, laws, standards, regulations and question today’s
-* Summarise major pain points of users and opportunities for service (re)-development / improvements
-* Help the team agree scope and boundaries and decide when is the right time to move into Alpha
-* Articulate the vision for the service (with product manager/service owner)
-
-## Alpha
-
-How service designers support the alpha phase:
-
-* Understand and respond to the users of a service and the context they are in
-* Identify what the real problem is
-* Develop a strategic vision for the service (final destination, not just the plan for beta)
-* With the product manager, hold the vision for the team
-* Work with team to develop a scaffolded approach to delivering the vision
-* Help define problems for interaction designers to explore
-* Map and visualise the journey of users
-* Facilitate a shared understanding within and outside of the team
-* Spot opportunities for reducing cost and complexity
-* Help define the scope of the service
-* What are the feasible and useful fixes you can do - low hanging fruit where change is feasible, easy and beneficial for the user, and what is harder to do
-* Explore and prototype various solutions to the problem
-
-## Beta
-
-How service designers support the beta phase:
-
-* Keep track of user needs as the service is used and help prioritise into fixes, new features and functionality
-* Help the service to understand and decide what new usage, contexts and features should be incorporated into digital channels or built into other channels and support systems
-* Find and implement improvements to the service in all channels
-* Work with caseworkers and support teams to make sure that user’s needs and problems are represented in the development teams, and incorporate feedback that will help caseworkers do their jobs better
-
-## Live
-
-How service designers support live:
-
-* Identify areas for automation or improvement to make internal processes simpler and more efficient
-* Identify customer and user behaviours and process for continuously provide feedback to product and service teams
-* Provide a holistic view, from digital and physical channels and human interactions and ongoing identification of metrics and opportunities
