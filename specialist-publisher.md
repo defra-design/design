@@ -1,14 +1,13 @@
 
 <!-- Nav -->
-* [Design](/README.md)
-* [What designers do](/design.md)
-* [Design community](/community.md)
-* [Design standards](/standards.md)
+* [Interaction design and service design](/README.md)
+* [What interaction designers and service designers do](/design.md)
+* [Defra Design community](/community.md)
 * [Tools and resources](/tools-and-resources.md)
-* [Services we're working on](/service-teams.md)
 * Specialist Publisher
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 * [Design crits](/design-crits.md)
+* [Case studies](/case-studies.md)
 
 # What is Specialist Publisher
 
