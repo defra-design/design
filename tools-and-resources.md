@@ -110,3 +110,7 @@ Chris Barrett and Gareth Thomas in the Defra Design Team run regular prototype t
 * [Cards for humanity](https://cardsforhumanity.idean.com/)
 * [Tarot cards of tech](http://tarotcardsoftech.artefactgroup.com/)
 * [Good Service Scale](https://docs.google.com/spreadsheets/d/1z6_WN7XYngyJd-kKSHcmKxSKVFpf4dV8RbUofUdTQ9c/edit?usp=sharing)
+
+## Capability
+
+Share the [Service and Interaction Design Capability Trello board](https://trello.com/b/Xcx5TBr1/service-and-interaction-design-capability) with people in your team to help them understand what you do.
