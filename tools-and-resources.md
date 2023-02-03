@@ -12,7 +12,34 @@
 
 # Tools and resources
 
-## Components and patterns
+## GOV.UK Prototype kit
+
+There is a very well supported design system and front end prototyping kit. The [GOV.UK Design System](https://design-system.service.gov.uk/) provides a well-supported way to make interactive prototypes that look like pages on GOV.UK. These prototypes can be used to show ideas to people you work with, do user research and quickly iterate ideas. They can also help you build fully fledged interactive prototypes that look to solve complicated problem as simply as possible. It also provides a good platform for developing staff-facing products and services. In this list of cross government design systems, predominately supporting staff-facing tools, there are other examples of how designers across government are solving problems and provide other sources of solutions and direction. [Gov Design Systems](https://github.com/ctdesign/gov-design-systems-list)
+
+Also, you will find that there is great support and experience of prototyping throughout the design team and we try to run workshops on how to use the prototyping kit.
+
+Getting set up
+
+The GOV.UK Prototype Kit cannot be installed on a networked Defra PC laptop. If you are a contractor or a supplier you will have to use your own unnetworked machine to run it. If you are a permanent civil servant member of the design team (or the UCD team) you should already have an off network MacBook on which it can be installed and run successfully. If you don't have one, request one from your line manager or UCD Operations.
+
+[Get started](https://design-system.service.gov.uk/get-started/) on GOV.UK Design System
+
+Github
+
+Get a Github account. To get an account you must set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication).
+
+Use the Defra [GitHub account](https://github.com/defra-design) to host the code for your prototype. Ask to be added as a member of the team and then either set up the repo yourself or ask to have one set up up by the UCD Operations team or your line manager. Make sure you name the repo so everyone understands what it is and please include the details of the project in the read me file. Please also include a design history in your prototype so it is easy for other people to understand what you have been doing and what you have achieved. [GOV.UK Design History Template](https://github.com/x-govuk/govuk-design-history-template). All prototype repo's must be named with an _proto and be managed by the design team.
+
+Heroku
+
+[Get a Heroku account](https://www.heroku.com)
+To get your prototype online. It’s simple and fast to deploy new versions as you work and to allow people to view and test quickly.
+
+Get your app set up on the central Heroku account. Design Leads and Design Ops will help with this (and if you haven't used Heroku before, ask them for some help)
+
+Further guidance [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting your password protected prototypes.
+
+### Components and patterns
 
 Design patterns solve the common problems so teams can focus on the things unique to their service and it’s users.
 
@@ -26,43 +53,6 @@ If you cannot find what you need in the GOV.UK Design System you can:
 * [propose a new pattern in the GOV.UK Design System](https://design-system.service.gov.uk/community/propose-a-component-or-pattern/). All patterns must be [useful and unique](https://design-system.service.gov.uk/community/contribution-criteria/#new-proposals).
 
 * Check x-govuk for [design patterns and design resources] from other government departments (https://x-govuk.github.io/)
-
-
-## Wireframing
-
-Open source kits are available for wireframing:
-
-* [Google draw wireframing kit](https://docs.google.com/drawings/d/1d10Rl4X0_quNgLk8oPlgbXK4sfDU09OvpUsIn8Azsv8/edit)
-* [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
-* [Balsamiq wireframing kit](https://github.com/enoranidi/govuk-design-system-balsamiq)
-* [Figma wireframing kit](https://www.figma.com/file/NWuFffKvPQhl3aJ9nKU0p3/GOV.UK-Design-System?node-id=23%3A233)
-
-
-### User flows
-
-Open source kits are available for producing flow diagrams:
-
-* [Sketch flow kit](https://github.com/charlesrt/gov-flow)
-* [Google draw flow kit](https://www.beatnic.co.uk/2019/10/04/google-drawing-template-gov-flow-kit/)
-
-
-## GOV.UK Prototype kit
-
-Use the GOV.UK Prototype kit to produce working prototypes.
-
-Use the Defra [GitHub account](https://github.com/defra-design) for version control and sharing code, to get a repo set up contact the UCD Operations team or your line manager.
-
-To get an account you must set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication).
-
-All prototype repo's must be named with an _proto and be managed by the design team.
-
-* [View the design team prototype repositories on github](https://github.com/orgs/DEFRA/teams/design/repositories)
-* [View the design team prototype repositories on the new design team github](https://github.com/defra-design)
-
-Use [Heroku](https://govuk-prototype-kit.herokuapp.com/docs/publishing-on-heroku) for hosting your password protected prototypes.
-
-* Download the [Gov.uk prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
-* Converts Google Docs into [Govspeak](https://govspeak-preview.herokuapp.com/convert) ready for Specialist Publisher
 
 ### Extensions
 
@@ -83,28 +73,36 @@ These are node modules that can be install to add functionality to the prototype
 * [GOV.UK Eleventy plugin](https://x-govuk.github.io/govuk-eleventy-plugin/)
 * [GOV.UK Design History](https://design-history.herokuapp.com/)
 
-### Defra branding and print template
+## Wireframing
+
+Our default wireframing tool for the Defra Design Team is Figma. If you are a permanent civil servant member of the team, request to be added to the team Figma account. Ask your line manager or UCD Operations. If you are a contractor or a supplier, you will need to provide your own licence but can be added to shared work files as required that sit in the Defra Design Team Figma account.
+
+Open source kits are available for wireframing:
+
+* [Google draw wireframing kit](https://docs.google.com/drawings/d/1d10Rl4X0_quNgLk8oPlgbXK4sfDU09OvpUsIn8Azsv8/edit)
+* [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
+* [Balsamiq wireframing kit](https://github.com/enoranidi/govuk-design-system-balsamiq)
+* [Figma wireframing kit](https://www.figma.com/file/NWuFffKvPQhl3aJ9nKU0p3/GOV.UK-Design-System?node-id=23%3A233)
+
+## User flows
+
+Open source kits are available for producing flow diagrams:
+
+* [Sketch flow kit](https://github.com/charlesrt/gov-flow)
+* [Google draw flow kit](https://www.beatnic.co.uk/2019/10/04/google-drawing-template-gov-flow-kit/)
+
+## Defra branding and print template
 
 Style guide, templates and brand assests  
 
 * [Corporate document templates](https://intranet.defra.gov.uk/forms/corporate-document-templates/)
 * [Branding](https://intranet.defra.gov.uk/how-to/correspondence/branding-corporate-templates/)
 
-### Training
+## Training
 
-The User-Centred Design Community provides a structure for designers, content designers and user researchers across government to learn from each other, collaborate and share best practice.
+Chris Barrett and Gareth Thomas in the Defra Design Team run regular prototype training for the Defra User-Centred Design Community.
 
-[Upcoming GDS UCD training](https://designnotes.blog.gov.uk/events-and-training-in-the-user-centred-design-community/)
-
-### Courses
-
-* Introduction to Design in Government
-* Getting started with the GOV.UK Prototype kit
-* Basic Introduction to User Research
-* Introduction to Service Design
-* Cross-gov design peer critique day
-
-### Workshops and meetings
+## Workshops and meetings
 
 * [Workshop Tactics for product teams](https://www.workshoptactics.com/pages/tactics)
 * [Quick icebreakers for online meetings, (that don’t suck)](https://emilywebber.co.uk/quick-icebreakers-for-online-meetings-that-dont-suck/)
