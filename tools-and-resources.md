@@ -18,19 +18,19 @@ There is a very well supported design system and front end prototyping kit. The 
 
 Also, you will find that there is great support and experience of prototyping throughout the design team and we try to run workshops on how to use the prototyping kit.
 
-Getting set up
+### Getting set up
 
 The GOV.UK Prototype Kit cannot be installed on a networked Defra PC laptop. If you are a contractor or a supplier you will have to use your own unnetworked machine to run it. If you are a permanent civil servant member of the design team (or the UCD team) you should already have an off network MacBook on which it can be installed and run successfully. If you don't have one, request one from your line manager or UCD Operations.
 
 [Get started](https://design-system.service.gov.uk/get-started/) on GOV.UK Design System
 
-Github
+### Github
 
 Get a Github account. To get an account you must set up [two factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication).
 
 Use the Defra [GitHub account](https://github.com/defra-design) to host the code for your prototype. Ask to be added as a member of the team and then either set up the repo yourself or ask to have one set up up by the UCD Operations team or your line manager. Make sure you name the repo so everyone understands what it is and please include the details of the project in the read me file. Please also include a design history in your prototype so it is easy for other people to understand what you have been doing and what you have achieved. [GOV.UK Design History Template](https://github.com/x-govuk/govuk-design-history-template). All prototype repo's must be named with an _proto and be managed by the design team.
 
-Heroku
+### Heroku
 
 [Get a Heroku account](https://www.heroku.com)
 To get your prototype online. It’s simple and fast to deploy new versions as you work and to allow people to view and test quickly.
