@@ -83,6 +83,10 @@ Open source kits are available for wireframing:
 * [Balsamiq wireframing kit](https://github.com/enoranidi/govuk-design-system-balsamiq)
 * [Figma wireframing kit](https://www.figma.com/file/NWuFffKvPQhl3aJ9nKU0p3/GOV.UK-Design-System?node-id=23%3A233)
 
+## Accessibility
+
+[Defra accessibility resources](https://defra-design.github.io/accessibility/)
+
 ## User flows
 
 The supported and approved whiteboarding tool in the Defra Design Team is Mural. UPDATE TO FOLLOW ON ROLL OUT OF MURAL AS THE DEFAULT TOOL IN FEBRUARY 2023. In the meantime, please use your own free Mural account or the existing Defra Design Team Miro account.
