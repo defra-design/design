@@ -2,7 +2,8 @@
 * [Interaction design and service design](/README.md)
 * [What interaction designers and service designers do](/design.md)
 * [Defra Design community](/community.md)
-* [Tools, resources and standards](/tools-and-resources.md)
+* [Tools and resources](/tools-and-resources.md)
+* [Defra design standards](https://github.com/DEFRA/design-standards)
 * [Specialist Publisher](/specialist-publisher.md)
 * Accessibility acceptance criteria
 * [Design crits](/design-crits.md)
