@@ -1,4 +1,4 @@
-<!-- Nav -->
+<!-- Nav
 * Interaction design and service design
 * [What interaction designers and service designers do](/design.md)
 * [Defra Design community](/community.md)
@@ -8,6 +8,7 @@
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
 * [Design crits](/design-crits.md)
 * [Case studies](/case-studies.md)
+ -->
 
 <!-- # Design in Defra
 
