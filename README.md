@@ -15,7 +15,7 @@ Service design - Design a series of interactions
 
 Interaction design - The design of interactions (in a service) -->
 
-## Interaction design in Defra
+# Interaction design in Defra
 
 Interaction designers are essential parts of service teams that work to meet user needs, design standards and accessibility legislation. They also make sure all work is aligned to the service vision and that it adds value for users. They work closely with the entire project team, especially user researchers, service designers, content designers and software developers.
 
