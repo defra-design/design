@@ -11,7 +11,7 @@
 
 <!-- # Design in Defra
 
-Service design - Design a series of interactions
+Service design - Design a series of interactions 
 
 Interaction design - The design of interactions (in a service) -->
 
