@@ -28,22 +28,22 @@ A design practice that works out the best way to let users interact with a produ
 
 ### Why do it?
 
-Interaction design removes the risk of developing systems that don't meet user needs by:
+Interaction design removes the risk of developing systems that don't meet user needs by: 
 
- * Testing assumptions, hypothesis, and designs early and often
+ * testing assumptions, hypothesis, and designs early and often
  * ensuring the product is inclusive and accessible
 
 Interaction design along with other disciplines helps us create products that:
 
- * Meet the Government service standard
- * Meet Government accessibility regulations
- * Meet current web standards
- * Meet user and organisational needs
- * Are simple and intuitive to use
- * Work in a way that is familiar
- * Require the minimum possible steps to complete
- * Are consistent throughout
- * Are usable by everyone, equally
+ * meet the Government service standard
+ * meet Government accessibility regulations
+ * meet current web standards
+ * meet user and organisational needs
+ * are simple and intuitive to use
+ * work in a way that is familiar
+ * require the minimum possible steps to complete
+ * are consistent throughout
+ * are usable by everyone, equally
 
 ### When to do it
 
@@ -53,11 +53,11 @@ Interaction design is applicable throughout the agile delivery phases: Discovery
 
 Interaction design supports digital delivery to ensure benefits can be realised:
 
- * Reduces risk, development and maintenance costs by testing assumptions and hypothesis
- * Improves outcomes by facilitating design sessions to ensure a wide range of possibilities are considered
- * Improves performance and reduces the number of user errors
- * Increases user satisfaction and trust in both the service and Defra
- * Improves efficiency through consistency and familiarity
+ * reduces risk, development and maintenance costs by testing assumptions and hypothesis
+ * improves outcomes by facilitating design sessions to ensure a wide range of possibilities are considered
+ * improves performance and reduces the number of user errors
+ * increases user satisfaction and trust in both the service and Defra
+ * improves efficiency through consistency and familiarity
 
 ## Service design in Defra
 
@@ -67,13 +67,13 @@ Service designers work closely with all members of a multi-functional team to me
 
 The key principles of being a service designer are:
 
-* Identify what the real problem is
-* Map and visualise the journey of users
-* Facilitate a shared understanding within and outside of the team
-* Spot opportunities for reducing cost and complexity
-* Help define the scope of the service
-* Explore and prototype various solutions to the problem
-* Design the service end to end, from backstage to front, in all channels
+* identify what the real problem is
+* map and visualise the journey of users
+* facilitate a shared understanding within and outside of the team
+* spot opportunities for reducing cost and complexity
+* help define the scope of the service
+* explore and prototype various solutions to the problem
+* design the service end to end, from backstage to front, in all channels
 
 ### What is service design?  
 
@@ -95,29 +95,29 @@ By taking these principles we ensure that we understand exactly what are 'servic
 
 Examples of services:
 
-* Visit the UK
-* Learn to drive
-* I want to become a childminder
-* I need to renew a passport
-* I need legal aid
+* visit the UK
+* learn to drive
+* i want to become a childminder
+* i need to renew a passport
+* i need legal aid
 
 Examples of features (one step or transaction in a service):
 
-* Applying for a visa
-* Applying for a licence
-* Granting or refusing permission
+* applying for a visa
+* applying for a licence
+* granting or refusing permission
 
 Example of capability - appointment booking, which requires:
 
-* An appointment booking system, which may be a technical capability
-* Physical locations or phone support to host the appointments
-* A process for changing or cancelling appointments
+* an appointment booking system, which may be a technical capability
+* physical locations or phone support to host the appointments
+* a process for changing or cancelling appointments
 
 Examples of activities:
 
-* Finding out how something works
-* Calling people for help
-* Applying for something
+* finding out how something works
+* calling people for help
+* applying for something
 
 Technology:
 
@@ -135,27 +135,27 @@ By working across organisational boundaries, Service Design helps users complete
 
 Service design
 
- * Builds context and understanding of end users lives
- * Brings visibility to customer journeys and the pain points that limit service use
- * Highlights organisational/ structural issues that prevent good service outcomes
+ * builds context and understanding of end users lives
+ * brings visibility to customer journeys and the pain points that limit service use
+ * highlights organisational/ structural issues that prevent good service outcomes
 
 Service design along with other disciplines will help us create services that:
 
- * Are easy to find
- * Clearly explain the purpose of the service
- * Set expectations a user has of the service
- * Enable each user to complete the outcome they set out to do
- * Work in a way that is familiar
- * Require no prior knowledge to use
- * Are agnostic of organisational structures
- * Require the minimum possible steps to complete
- * Are consistent throughout
- * Have no dead ends
- * Are usable by everyone, equally
- * Encourage the right behaviours from users and service providers
- * Respond to change quickly
- * Clearly explain why a decision has been made
- * Make it easy to get human assistance
+ * are easy to find
+ * clearly explain the purpose of the service
+ * set expectations a user has of the service
+ * enable each user to complete the outcome they set out to do
+ * work in a way that is familiar
+ * require no prior knowledge to use
+ * are agnostic of organisational structures
+ * require the minimum possible steps to complete
+ * are consistent throughout
+ * have no dead ends
+ * are usable by everyone, equally
+ * encourage the right behaviours from users and service providers
+ * respond to change quickly
+ * clearly explain why a decision has been made
+ * make it easy to get human assistance
 
 ### When to do it
 
@@ -165,6 +165,6 @@ Service Design is applicable throughout the agile delivery phases Discovery, Alp
 
 Service design supports digital design to ensure benefits can be realised
 
- * Reduces risk by ensuring the right problem is solved
- * Creates efficiencies by identifying service siloes, duplication and proliferation
- * Ensures user and stakeholder outcomes are designed into the service
+ * reduces risk by ensuring the right problem is solved
+ * creates efficiencies by identifying service siloes, duplication and proliferation
+ * ensures user and stakeholder outcomes are designed into the service
