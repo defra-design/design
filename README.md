@@ -35,7 +35,7 @@ Interaction design removes the risk of developing systems that don't meet user n
 
 Interaction design along with other disciplines helps us create products that:
 
- * meet the Government service standard
+ * meet the [Government service standard](https://www.gov.uk/service-manual/service-standard)
  * meet Government accessibility regulations
  * meet current web standards
  * meet user and organisational needs
