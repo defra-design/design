@@ -1,4 +1,4 @@
-<!-- Nav -->
+<!-- Nav 
 * [Design](/README.md)
 * [What designers do](/design.md)
 * [Design community](/community.md)
@@ -7,7 +7,7 @@
 * Services we're working on
 * [Specialist Publisher](/specialist-publisher.md)
 * [Accessibility acceptance criteria](/accessibility-acceptance-criteria.md)
-* [Design crits](/design-crits.md)
+* [Design crits](/design-crits.md)-->
 
 
 # Services we're working on
